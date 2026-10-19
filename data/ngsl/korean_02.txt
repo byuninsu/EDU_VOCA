@@ -1,0 +1,400 @@
+body|몸; 본문
+require|필요로 하다; 요구하다
+wait|기다리다
+general|일반적인; 장군
+appear|나타나다; ~처럼 보이다
+toward|~쪽으로
+team|팀; 단체
+easy|쉬운
+individual|개인의; 개인
+full|가득 찬; 배부른
+black|검은색; 검은
+sense|감각; 의미
+perhaps|아마; 어쩌면
+add|더하다; 추가하다
+rule|규칙; 통치하다
+pass|지나가다; 통과하다
+produce|생산하다
+sell|팔다
+short|짧은; 키가 작은
+agree|동의하다
+law|법
+everything|모든 것
+research|연구; 조사하다
+cover|덮다; 표지
+paper|종이; 논문
+position|위치; 지위
+near|가까운; 가까이
+human|인간; 인간의
+computer|컴퓨터
+situation|상황
+staff|직원들
+activity|활동
+film|영화; 필름
+morning|아침
+war|전쟁
+account|계좌; 설명
+shop|가게; 쇼핑하다
+major|주요한; 전공
+someone|누군가
+above|~위에
+design|설계; 디자인하다
+event|사건; 행사
+special|특별한
+sometimes|때때로
+condition|상태; 조건
+carry|나르다; 지니다
+choose|선택하다
+father|아버지
+decision|결정
+table|탁자; 표
+certain|확실한; 어떤
+forward|앞으로
+main|주요한
+die|죽다
+bear|곰; 견디다
+cut|자르다; 줄이다
+describe|묘사하다; 설명하다
+himself|그 자신
+available|이용 가능한; 시간이 있는
+especially|특히
+strong|강한
+rise|오르다; 일어나다
+girl|소녀; 여자아이
+maybe|아마도
+community|지역사회; 공동체
+else|그 밖의; 다른
+particular|특정한; 특별한
+role|역할
+join|참여하다; 합치다
+difficult|어려운
+please|부디; 기쁘게 하다
+detail|세부 사항
+difference|차이
+action|행동; 조치
+health|건강
+eat|먹다
+step|걸음; 단계
+true|참인; 사실인
+phone|전화; 전화하다
+themselves|그들 자신
+draw|그리다; 끌다
+white|흰색; 하얀
+date|날짜; 데이트
+practice|연습; 실행하다
+model|모형; 모델
+raise|올리다; 기르다
+customer|고객
+front|앞; 앞쪽
+explain|설명하다
+door|문
+outside|밖; 바깥에
+behind|~뒤에
+economic|경제의
+site|장소; 부지; 사이트
+approach|접근하다; 접근법
+teacher|교사; 선생님
+land|땅; 착륙하다
+charge|요금; 청구하다; 충전하다
+finally|마침내; 마지막으로
+sign|표지; 징후; 서명하다
+claim|주장하다; 요구하다
+relationship|관계
+travel|여행하다
+enjoy|즐기다
+death|죽음
+nice|좋은; 친절한
+amount|양; 금액
+improve|개선하다; 나아지다
+picture|그림; 사진
+boy|소년; 남자아이
+regard|여기다; 관심
+organization|조직; 단체
+happy|행복한
+couple|두 사람; 한 쌍
+act|행동하다; 연기하다
+range|범위; 다양성
+quality|품질; 특성
+project|프로젝트; 계획
+round|둥근; 한 차례
+opportunity|기회
+road|도로; 길
+accord|합의; 부여하다
+list|목록; 나열하다
+wish|바라다; 소원
+therefore|그러므로
+wear|입다; 착용하다
+fund|기금; 자금을 대다
+rest|휴식; 나머지
+kid|아이; 농담하다
+industry|산업
+education|교육
+measure|측정하다; 조치
+kill|죽이다
+serve|제공하다; 봉사하다
+likely|가능성이 높은
+certainly|분명히; 물론
+national|국가의; 전국적인
+itself|그 자체
+teach|가르치다
+field|들판; 분야
+security|보안; 안전
+air|공기; 항공
+benefit|이익; 혜택
+trade|무역; 거래하다
+risk|위험
+news|뉴스; 소식
+standard|기준; 표준
+vote|투표; 투표하다
+percent|백분율; 퍼센트
+focus|집중하다; 초점
+stage|단계; 무대
+space|공간; 우주
+instead|대신에
+realize|깨닫다; 실현하다
+usually|보통; 대개
+data|자료; 데이터
+single|하나의; 독신의
+address|주소; 다루다; 연설하다
+performance|성과; 공연; 성능
+chance|기회; 가능성
+accept|받아들이다
+society|사회
+technology|기술
+mention|언급하다
+choice|선택
+save|구하다; 저축하다; 저장하다
+common|흔한; 공통의
+culture|문화
+total|전체; 합계
+demand|요구; 수요
+material|재료; 자료
+limit|한계; 제한하다
+listen|귀 기울여 듣다
+due|예정된; 지급해야 하는
+wrong|틀린; 잘못된
+foot|발; 피트
+effort|노력
+attention|주의; 관심
+upon|~위에; ~하자마자
+check|확인하다; 계산서
+complete|완료하다; 완전한
+lie|눕다; 거짓말하다
+pick|고르다; 따다
+reduce|줄이다
+personal|개인의; 사적인
+ground|땅; 근거
+animal|동물
+arrive|도착하다
+patient|환자; 참을성 있는
+current|현재의; 흐름
+century|세기; 백 년
+evidence|증거
+exist|존재하다
+similar|비슷한
+fight|싸우다; 싸움
+leader|지도자
+fine|괜찮은; 벌금
+street|거리; 길
+former|이전의
+contact|연락; 접촉하다
+particularly|특히
+wife|아내
+sport|스포츠; 운동
+prepare|준비하다
+discuss|논의하다
+response|응답; 반응
+voice|목소리
+piece|조각; 한 개
+finish|끝내다; 끝나다
+suppose|생각하다; 가정하다
+apply|신청하다; 적용하다
+president|대통령; 회장
+fire|불; 해고하다
+compare|비교하다
+court|법원; 경기장
+police|경찰
+store|가게; 저장하다
+poor|가난한; 형편없는
+knowledge|지식
+laugh|웃다; 웃음
+arm|팔; 무장시키다
+heart|심장; 마음
+source|원천; 출처
+employee|직원; 고용인
+manage|관리하다; 해내다
+simply|단순히; 그저
+bank|은행; 강둑
+firm|회사; 단단한
+cell|세포; 작은 방
+article|기사; 물품; 관사
+fast|빠른; 빨리
+attack|공격하다; 공격
+foreign|외국의
+surprise|놀라게 하다; 놀라움
+feature|특징; 특집
+factor|요인
+pretty|예쁜; 꽤
+recently|최근에
+affect|영향을 미치다
+drop|떨어뜨리다; 방울
+recent|최근의
+relate|관련되다; 이야기하다
+official|공식적인; 공무원
+financial|재정의; 금융의
+miss|놓치다; 그리워하다
+art|예술
+campaign|운동; 캠페인
+private|사적인; 개인의
+pause|잠시 멈추다; 중단
+everyone|모든 사람
+forget|잊다
+page|페이지; 쪽
+worry|걱정하다; 걱정
+summer|여름
+drink|마시다; 음료
+opinion|의견
+park|공원; 주차하다
+represent|대표하다; 나타내다
+key|열쇠; 핵심
+inside|안쪽; 안에
+manager|관리자; 책임자
+international|국제적인
+contain|포함하다; 담다
+notice|알아차리다; 공지
+wonder|궁금해하다; 경이
+nature|자연; 본성
+structure|구조
+section|부분; 구역
+myself|나 자신
+exactly|정확히
+plant|식물; 공장; 심다
+paint|칠하다; 물감
+worker|노동자; 일하는 사람
+press|누르다; 언론
+whatever|무엇이든; 어떤 ~라도
+necessary|필요한
+region|지역
+growth|성장
+evening|저녁
+influence|영향; 영향을 주다
+respect|존중; 존경하다
+various|다양한
+catch|잡다; 알아듣다
+thus|따라서; 이렇게
+skill|기술; 솜씨
+attempt|시도; 시도하다
+son|아들
+simple|단순한; 쉬운
+medium|중간의; 매체
+average|평균; 보통의
+stock|재고; 주식
+management|관리; 경영진
+character|성격; 등장인물; 문자
+bed|침대
+hit|치다; 부딪치다
+establish|설립하다; 확립하다
+indeed|정말로; 실로
+final|최종의; 결승
+economy|경제
+fit|맞다; 건강한
+guy|남자; 녀석
+function|기능; 작동하다
+yesterday|어제
+image|이미지; 모습
+size|크기
+behavior|행동
+addition|추가; 덧셈
+determine|결정하다; 알아내다
+station|역; 기지
+population|인구
+fail|실패하다
+environment|환경
+production|생산; 제작
+contract|계약; 수축하다
+player|선수; 연주자
+comment|의견; 논평하다
+enter|들어가다; 입력하다
+occur|일어나다; 발생하다
+alone|혼자; 홀로
+significant|중요한; 상당한
+drug|약물; 마약
+wall|벽
+series|연속; 시리즈
+direct|직접적인; 지시하다
+success|성공
+tomorrow|내일
+director|감독; 이사
+clearly|분명히
+lack|부족; 부족하다
+review|검토; 복습하다
+depend|의존하다; 달려 있다
+race|경주; 인종
+recognize|알아보다; 인정하다
+window|창문
+purpose|목적
+department|부서; 학과
+gain|얻다; 증가
+tree|나무
+college|대학
+argue|논쟁하다; 주장하다
+board|판자; 위원회; 탑승하다
+holiday|휴일; 휴가
+mark|표시; 점수
+church|교회
+machine|기계
+achieve|달성하다
+item|항목; 물품
+prove|증명하다
+cent|센트 (화폐 단위)
+season|계절; 시기
+floor|바닥; 층
+stuff|물건; 재료
+wide|넓은
+anyone|누구든; 누군가
+method|방법
+analysis|분석
+election|선거
+military|군대의; 군대
+hotel|호텔
+club|동호회; 클럽
+below|~아래에
+movie|영화
+doctor|의사; 박사
+discussion|논의; 토론
+sorry|미안한; 유감스러운
+challenge|도전; 도전하다
+nation|국가; 국민
+nearly|거의
+statement|진술; 성명
+link|연결; 연결하다
+despite|~에도 불구하고
+introduce|소개하다; 도입하다
+advantage|이점; 장점
+ready|준비된
+marry|결혼하다
+strike|치다; 파업하다
+mile|마일 (거리 단위)
+seek|찾다; 추구하다
+ability|능력
+unit|단위; 부대
+card|카드; 카드 한 장
+hospital|병원
+quickly|빨리
+interview|면접; 인터뷰
+agreement|합의; 협정
+release|풀어주다; 공개하다
+tax|세금
+solution|해결책; 용액
+capital|수도; 자본; 대문자
+popular|인기 있는
+specific|구체적인; 특정한
+beautiful|아름다운
+fear|두려움; 두려워하다
+aim|목표; 겨냥하다
+television|텔레비전
+serious|심각한; 진지한
+target|목표; 표적
+degree|정도; 학위
+pull|당기다
+red|빨간색; 빨간

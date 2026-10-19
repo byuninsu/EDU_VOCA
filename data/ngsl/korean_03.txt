@@ -1,0 +1,400 @@
+husband|남편
+access|접근; 이용 권한
+movement|움직임; 운동
+treat|대하다; 치료하다
+identify|확인하다; 식별하다
+loss|손실; 상실
+shall|~하겠다; ~할까요
+modern|현대의
+pressure|압력; 압박
+bus|버스
+treatment|치료; 대우
+conference|회의; 학회
+yourself|너 자신; 당신 자신
+supply|공급; 공급하다
+village|마을
+worth|~의 가치가 있는
+natural|자연의; 자연스러운
+express|표현하다; 급행의
+indicate|나타내다; 가리키다
+attend|참석하다; 다니다
+brother|형제; 형; 남동생
+investment|투자
+score|점수; 득점하다
+organize|조직하다; 정리하다
+trip|여행; 걸려 넘어지다
+beyond|~너머에; ~을 넘어서
+sleep|자다; 잠
+fish|물고기; 낚시하다
+promise|약속; 약속하다
+potential|잠재적인; 가능성
+energy|에너지; 기력
+trouble|문제; 곤란
+relation|관계
+touch|만지다; 접촉
+file|파일; 서류철
+middle|중간; 가운데
+bar|막대; 술집
+suffer|고통받다; 겪다
+strategy|전략
+deep|깊은
+except|~을 제외하고
+clean|깨끗한; 청소하다
+tend|~하는 경향이 있다; 돌보다
+advance|전진; 발전하다
+fill|채우다
+star|별; 스타
+network|연결망; 네트워크
+generally|일반적으로; 대체로
+operation|운영; 작동; 수술
+match|경기; 어울리다; 성냥
+avoid|피하다
+seat|좌석; 자리
+throw|던지다
+task|과제; 할 일
+normal|정상적인; 보통의
+goal|목표; 골
+associate|연관 짓다; 동료
+blue|파란색; 우울한
+positive|긍정적인; 양성의
+option|선택 사항
+box|상자
+huge|거대한
+message|메시지; 전갈
+instance|사례; 경우
+style|방식; 스타일
+refer|언급하다; 참고하다
+cold|추운; 차가운; 감기
+push|밀다
+quarter|사분의 일; 분기
+assume|가정하다; 맡다
+baby|아기
+successful|성공적인
+sing|노래하다
+doubt|의심; 의심하다
+competition|경쟁; 대회
+theory|이론
+propose|제안하다; 청혼하다
+reference|참고; 언급
+argument|논쟁; 주장
+adult|성인; 어른의
+fly|날다; 파리
+document|문서; 기록하다
+pattern|양식; 무늬
+application|신청; 적용; 응용 프로그램
+hot|뜨거운; 더운
+obviously|분명히; 명백히
+unclear|불분명한
+bill|청구서; 지폐; 법안
+search|찾다; 검색
+separate|분리하다; 별개의
+central|중앙의; 핵심적인
+career|직업 경력
+anyway|어쨌든
+speech|연설; 말하기
+dog|개
+officer|장교; 공무원; 경찰관
+throughout|~내내; ~곳곳에
+oil|기름; 석유
+dress|옷을 입다; 원피스
+profit|이익; 수익
+guess|추측하다
+fun|재미; 즐거움
+protect|보호하다
+resource|자원
+science|과학
+disease|질병
+balance|균형; 잔액
+damage|손상; 손상시키다
+basis|기초; 근거
+author|저자
+basic|기본적인
+encourage|격려하다; 장려하다
+hair|머리카락; 털
+male|남성의; 수컷
+operate|작동하다; 운영하다
+reflect|반영하다; 반사하다
+exercise|운동; 연습; 행사하다
+useful|유용한
+restaurant|음식점
+income|소득
+property|재산; 특성
+previous|이전의
+dark|어두운
+imagine|상상하다
+okay|괜찮은; 알겠어
+earn|벌다; 얻다
+daughter|딸
+post|우편; 게시하다; 직위
+newspaper|신문
+define|정의하다
+conclusion|결론
+clock|시계
+everybody|모든 사람
+weekend|주말
+perform|수행하다; 공연하다
+professional|전문적인; 전문가
+mine|나의 것; 광산
+debate|토론; 논쟁하다
+memory|기억; 추억
+green|초록색; 친환경의
+song|노래
+object|물체; 반대하다
+maintain|유지하다
+credit|신용; 공로; 학점
+ring|반지; 울리다
+discover|발견하다
+dead|죽은
+afternoon|오후
+prefer|더 좋아하다
+extend|연장하다; 뻗다
+possibility|가능성
+direction|방향; 지시
+facility|시설
+variety|다양성; 여러 종류
+daily|매일의; 매일
+clothes|옷
+screen|화면; 가리다
+track|자취; 선로; 추적하다
+dance|춤; 춤추다
+completely|완전히
+female|여성의; 암컷
+responsibility|책임
+original|원래의; 독창적인
+sister|자매; 누나; 여동생
+rock|바위; 흔들다
+dream|꿈; 꿈꾸다
+nor|~도 또한 아니다
+university|대학교
+easily|쉽게
+agency|기관; 대행사
+dollar|달러 (화폐 단위)
+garden|정원
+fix|고치다; 고정하다
+ahead|앞으로; 앞서
+cross|건너다; 십자가
+yeah|응; 그래
+candidate|후보자
+weight|무게; 체중
+legal|법률의; 합법적인
+proposal|제안; 청혼
+version|판; 버전
+conversation|대화
+somebody|누군가
+pound|파운드 (무게·화폐 단위); 두드리다
+magazine|잡지
+shape|모양; 형성하다
+sea|바다
+immediately|즉시
+welcome|환영하다; 환영받는
+smile|미소; 미소 짓다
+communication|의사소통; 통신
+agent|대리인; 요원
+traditional|전통적인
+replace|교체하다; 대신하다
+judge|판사; 판단하다
+herself|그녀 자신
+suddenly|갑자기
+generation|세대; 생성
+estimate|추정하다; 견적
+favorite|가장 좋아하는
+difficulty|어려움
+purchase|구매하다; 구매
+shoot|쏘다; 촬영하다
+announce|발표하다
+unless|~하지 않는 한
+independent|독립적인
+recommend|추천하다
+survey|조사; 조사하다
+majority|대다수; 과반수
+stick|막대기; 붙이다
+request|요청; 요청하다
+rich|부유한; 풍부한
+wind|바람; 감다
+none|아무것도 없음; 아무도 없음
+exchange|교환; 교환하다
+budget|예산
+famous|유명한
+blood|피; 혈액
+appropriate|적절한
+block|덩어리; 구역; 막다
+warm|따뜻한
+count|세다; 중요하다
+scene|장면; 현장
+writer|작가
+content|내용; 만족하는
+prevent|막다; 예방하다
+safe|안전한; 금고
+invite|초대하다
+mix|섞다
+element|요소; 원소
+effective|효과적인
+correct|맞는; 바로잡다
+medical|의학의; 의료의
+admit|인정하다; 입장을 허락하다
+beat|이기다; 두드리다
+telephone|전화; 전화하다
+copy|복사; 사본
+committee|위원회
+aware|알고 있는
+advice|조언
+handle|다루다; 손잡이
+glass|유리; 유리잔
+trial|재판; 시험 사용
+stress|스트레스; 강조하다
+radio|라디오
+administration|행정; 운영
+complex|복잡한; 복합 건물
+text|글; 문자 메시지
+context|맥락; 문맥
+ride|타다; 타고 가기
+directly|직접; 곧바로
+heavy|무거운
+remove|제거하다
+conduct|수행하다; 행동
+equipment|장비
+otherwise|그렇지 않으면; 달리
+title|제목; 직함
+extra|추가의
+executive|임원; 경영의
+chair|의자; 의장
+expensive|비싼
+sample|견본; 표본
+sex|성별; 성
+deliver|배달하다; 전달하다
+video|영상; 비디오
+connection|연결; 관계
+primary|주된; 초등의
+weather|날씨
+collect|모으다; 수집하다
+inform|알리다
+principle|원칙; 원리
+straight|곧은; 똑바로
+appeal|호소; 매력; 항소하다
+highly|매우; 높이
+trust|신뢰; 믿다
+wonderful|훌륭한; 멋진
+flat|평평한; 아파트
+absolutely|완전히; 절대적으로
+flow|흐르다; 흐름
+fair|공정한; 박람회
+additional|추가의
+responsible|책임이 있는
+farm|농장
+collection|수집; 모음
+hang|걸다; 매달리다
+negative|부정적인; 음성의
+band|밴드; 띠
+relative|친척; 상대적인
+tour|여행; 견학
+alternative|대안; 다른 선택의
+software|소프트웨어
+pair|한 쌍
+ship|배; 배송하다
+attitude|태도
+cheap|값싼
+double|두 배의; 두 배로 하다
+leg|다리
+observe|관찰하다; 준수하다
+sentence|문장; 형벌
+print|인쇄하다
+progress|진전; 발전하다
+truth|진실
+nobody|아무도 ~않다
+examine|조사하다; 검사하다
+lay|놓다; (알을) 낳다
+speed|속도
+politics|정치
+reply|답하다; 답장
+display|전시하다; 표시
+transfer|옮기다; 환승
+perfect|완벽한
+slightly|약간
+overall|전체적인; 전반적으로
+intend|의도하다; ~할 작정이다
+user|사용자
+respond|응답하다; 반응하다
+dinner|저녁 식사
+slow|느린; 속도를 줄이다
+regular|규칙적인; 정기적인
+physical|신체의; 물리적인
+apart|떨어져; 따로
+suit|정장; 어울리다
+federal|연방의
+reveal|드러내다
+percentage|백분율; 비율
+peace|평화
+status|지위; 상태
+crime|범죄
+decline|감소하다; 거절하다
+decade|십 년
+launch|시작하다; 출시하다; 발사하다
+warn|경고하다
+consumer|소비자
+favor|호의; 선호하다
+dry|마른; 말리다
+partner|동료; 동반자
+institution|기관; 제도
+spot|장소; 점; 발견하다
+horse|말 (동물)
+eventually|결국
+heat|열; 데우다
+excite|흥분시키다
+reader|독자
+importance|중요성
+distance|거리
+guide|안내하다; 안내자
+grant|주다; 보조금
+taxi|택시
+feed|먹이를 주다
+pain|아픔; 통증
+sector|부문; 분야
+mistake|실수
+ensure|확실하게 하다; 보장하다
+satisfy|만족시키다
+chief|우두머리; 주요한
+cool|시원한; 멋진
+expert|전문가
+wave|파도; 손을 흔들다
+south|남쪽
+labor|노동
+surface|표면
+library|도서관
+excellent|아주 훌륭한
+edge|가장자리
+camp|야영지; 야영하다
+audience|청중; 관객
+lift|들어 올리다; 승강기
+procedure|절차
+email|이메일; 전자우편
+global|세계적인
+struggle|분투하다; 투쟁
+advertise|광고하다
+select|선택하다
+surround|둘러싸다
+extent|정도; 범위
+river|강
+annual|매년의; 연간의
+fully|완전히; 충분히
+contrast|대조; 대조하다
+roll|구르다; 말다; 두루마리
+reality|현실
+photograph|사진; 사진을 찍다
+artist|예술가
+conflict|갈등; 충돌
+entire|전체의
+presence|존재; 참석
+crowd|군중; 붐비다
+corner|모퉁이; 구석
+gas|가스; 기체
+shift|바꾸다; 교대
+net|그물; 순수한
+category|범주
+secretary|비서; 장관
+defense|방어; 국방
+quick|빠른
+cook|요리하다; 요리사
+spread|퍼지다; 펼치다
+nuclear|핵의
+scale|규모; 저울; 척도
+driver|운전자

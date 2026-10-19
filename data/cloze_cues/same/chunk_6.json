@@ -1,0 +1,837 @@
+{
+ "reward": [
+  "prize"
+ ],
+ "rice": [],
+ "rich": [
+  "wealthy"
+ ],
+ "rid": [],
+ "ride": [],
+ "right": [],
+ "rightaway": [
+  "immediately",
+  "right now",
+  "at once"
+ ],
+ "ring": [],
+ "rise": [
+  "comes up"
+ ],
+ "risk": [
+  "chance",
+  "gamble"
+ ],
+ "rival": [
+  "competing"
+ ],
+ "river": [],
+ "road": [
+  "street"
+ ],
+ "rock": [
+  "stone",
+  "boulder"
+ ],
+ "role": [],
+ "roll": [],
+ "romantic": [],
+ "roof": [],
+ "room": [
+  "space"
+ ],
+ "root": [
+  "source"
+ ],
+ "rose": [],
+ "rough": [
+  "tough"
+ ],
+ "roughly": [
+  "about",
+  "approximately",
+  "around"
+ ],
+ "round": [
+  "circular"
+ ],
+ "route": [
+  "ways",
+  "paths"
+ ],
+ "routine": [
+  "everyday",
+  "repetitive",
+  "daily"
+ ],
+ "row": [],
+ "royal": [],
+ "ruin": [
+  "remains"
+ ],
+ "rule": [],
+ "run": [],
+ "runinto": [
+  "hit"
+ ],
+ "runoutof": [
+  "run short of",
+  "run low on"
+ ],
+ "rural": [
+  "country"
+ ],
+ "rush": [
+  "hurried",
+  "ran",
+  "dashed"
+ ],
+ "sad": [
+  "unhappy",
+  "down",
+  "depressed"
+ ],
+ "safe": [],
+ "safety": [],
+ "sail": [],
+ "sake": [],
+ "salary": [
+  "pay"
+ ],
+ "sale": [],
+ "salt": [],
+ "same": [],
+ "sample": [
+  "specimen"
+ ],
+ "sanction": [
+  "penalty",
+  "punishment"
+ ],
+ "sand": [],
+ "satisfaction": [],
+ "satisfy": [
+  "happy",
+  "content",
+  "pleased"
+ ],
+ "save": [],
+ "say": [],
+ "scale": [
+  "size",
+  "scope",
+  "magnitude"
+ ],
+ "scan": [],
+ "scare": [
+  "frighten",
+  "startle"
+ ],
+ "scene": [],
+ "schedule": [
+  "timetable"
+ ],
+ "scheme": [
+  "project",
+  "plan"
+ ],
+ "scholar": [
+  "academic",
+  "researcher"
+ ],
+ "school": [],
+ "science": [],
+ "scientific": [],
+ "scientist": [],
+ "scope": [],
+ "score": [
+  "grades",
+  "marks"
+ ],
+ "scream": [
+  "yelling",
+  "shouting"
+ ],
+ "screen": [
+  "display"
+ ],
+ "sea": [
+  "ocean"
+ ],
+ "seal": [],
+ "search": [
+  "looking"
+ ],
+ "season": [],
+ "seat": [],
+ "second": [
+  "moment",
+  "minute"
+ ],
+ "secondary": [
+  "side"
+ ],
+ "secondly": [
+  "next"
+ ],
+ "secret": [
+  "confidential",
+  "private"
+ ],
+ "secretary": [],
+ "section": [
+  "aisle",
+  "department"
+ ],
+ "sector": [
+  "industry"
+ ],
+ "secure": [
+  "safe",
+  "protected"
+ ],
+ "security": [
+  "surveillance"
+ ],
+ "see": [
+  "meet"
+ ],
+ "seed": [],
+ "seek": [
+  "pursuing"
+ ],
+ "seem": [
+  "appear"
+ ],
+ "segment": [],
+ "select": [
+  "choose",
+  "pick"
+ ],
+ "selection": [
+  "range",
+  "variety",
+  "choice",
+  "assortment"
+ ],
+ "self": [],
+ "sell": [],
+ "send": [],
+ "senior": [
+  "veteran",
+  "experienced"
+ ],
+ "sense": [],
+ "sensitive": [],
+ "sentence": [],
+ "separate": [
+  "divides",
+  "splits"
+ ],
+ "sequence": [
+  "order"
+ ],
+ "series": [
+  "show"
+ ],
+ "serious": [],
+ "seriously": [
+  "really"
+ ],
+ "servant": [],
+ "serve": [
+  "help"
+ ],
+ "server": [],
+ "service": [],
+ "session": [
+  "course",
+  "workshop"
+ ],
+ "set": [],
+ "setoff": [
+  "leave",
+  "depart",
+  "head out",
+  "start out"
+ ],
+ "settle": [
+  "resolve",
+  "handle"
+ ],
+ "settlement": [
+  "agreement",
+  "accord",
+  "deal"
+ ],
+ "setup": [
+  "install",
+  "configure"
+ ],
+ "seven": [],
+ "seventy": [],
+ "several": [
+  "some",
+  "a few"
+ ],
+ "severe": [
+  "serious",
+  "major"
+ ],
+ "sex": [
+  "gender"
+ ],
+ "sexual": [],
+ "shade": [],
+ "shadow": [],
+ "shake": [
+  "trembling"
+ ],
+ "shall": [
+  "should",
+  "can",
+  "may"
+ ],
+ "shape": [
+  "formed"
+ ],
+ "share": [
+  "split",
+  "divide"
+ ],
+ "shareholder": [
+  "investor",
+  "stockholder"
+ ],
+ "sharp": [],
+ "she": [],
+ "sheep": [],
+ "sheet": [
+  "piece"
+ ],
+ "shelf": [],
+ "shell": [],
+ "shelter": [
+  "housing",
+  "refuge"
+ ],
+ "shift": [],
+ "shine": [
+  "glowing",
+  "gleaming"
+ ],
+ "ship": [
+  "boat",
+  "vessel"
+ ],
+ "shirt": [],
+ "shock": [],
+ "shoe": [],
+ "shoot": [],
+ "shop": [
+  "store"
+ ],
+ "shore": [
+  "coast",
+  "coastline",
+  "beach"
+ ],
+ "short": [],
+ "shot": [],
+ "should": [
+  "ought to",
+  "had better"
+ ],
+ "shoulder": [],
+ "shout": [
+  "yell",
+  "scream"
+ ],
+ "show": [
+  "teach"
+ ],
+ "shower": [],
+ "showup": [
+  "arrive",
+  "turn up",
+  "come"
+ ],
+ "shut": [
+  "turned"
+ ],
+ "sick": [
+  "tired"
+ ],
+ "side": [],
+ "sigh": [],
+ "sight": [],
+ "sign": [],
+ "signal": [
+  "light"
+ ],
+ "significance": [
+  "importance",
+  "value"
+ ],
+ "significant": [
+  "major",
+  "important",
+  "notable"
+ ],
+ "significantly": [
+  "considerably",
+  "substantially",
+  "greatly"
+ ],
+ "silence": [],
+ "silent": [
+  "quiet"
+ ],
+ "silly": [
+  "foolish",
+  "stupid",
+  "ridiculous"
+ ],
+ "silver": [],
+ "similar": [
+  "alike"
+ ],
+ "similarly": [],
+ "simple": [],
+ "simply": [
+  "just"
+ ],
+ "since": [],
+ "sing": [],
+ "singer": [],
+ "single": [],
+ "sink": [],
+ "sir": [],
+ "sister": [],
+ "sit": [],
+ "site": [
+  "website"
+ ],
+ "situate": [
+  "locate",
+  "place",
+  "build"
+ ],
+ "situation": [],
+ "six": [],
+ "sixty": [],
+ "size": [],
+ "ski": [],
+ "skill": [],
+ "skin": [],
+ "skirt": [],
+ "sky": [],
+ "slave": [],
+ "sleep": [
+  "bed"
+ ],
+ "slice": [
+  "piece"
+ ],
+ "slide": [
+  "glide",
+  "slip"
+ ],
+ "slight": [
+  "small",
+  "little"
+ ],
+ "slightly": [
+  "mildly",
+  "lightly"
+ ],
+ "slip": [
+  "fall"
+ ],
+ "slope": [
+  "incline",
+  "hill"
+ ],
+ "slow": [],
+ "slowdown": [],
+ "slowly": [],
+ "small": [
+  "tiny",
+  "little"
+ ],
+ "smart": [
+  "clever",
+  "intelligent",
+  "bright"
+ ],
+ "smell": [
+  "odor",
+  "odour"
+ ],
+ "smile": [],
+ "smoke": [],
+ "smooth": [
+  "calm",
+  "still"
+ ],
+ "snap": [
+  "break",
+  "crack"
+ ],
+ "snow": [],
+ "so": [],
+ "social": [],
+ "society": [],
+ "soft": [],
+ "software": [],
+ "soil": [
+  "ground",
+  "dirt",
+  "earth"
+ ],
+ "solar": [],
+ "soldier": [],
+ "solid": [],
+ "solution": [
+  "answers"
+ ],
+ "solve": [],
+ "some": [],
+ "somebody": [
+  "someone"
+ ],
+ "somehow": [],
+ "someone": [
+  "somebody"
+ ],
+ "something": [],
+ "sometimes": [
+  "occasionally"
+ ],
+ "somewhat": [
+  "rather",
+  "a bit",
+  "slightly",
+  "a little"
+ ],
+ "somewhere": [],
+ "son": [],
+ "song": [],
+ "soon": [],
+ "sorry": [],
+ "sort": [
+  "kind",
+  "type"
+ ],
+ "soul": [
+  "spirits"
+ ],
+ "sound": [
+  "seems",
+  "looks"
+ ],
+ "sounds": [
+  "seems",
+  "looks"
+ ],
+ "source": [],
+ "south": [],
+ "southern": [],
+ "space": [
+  "room",
+  "capacity"
+ ],
+ "spare": [
+  "extra"
+ ],
+ "speak": [],
+ "speaker": [],
+ "special": [],
+ "specialist": [
+  "expert"
+ ],
+ "specialize": [],
+ "species": [],
+ "specific": [
+  "particular"
+ ],
+ "specifically": [
+  "especially"
+ ],
+ "specify": [
+  "state",
+  "indicate"
+ ],
+ "speech": [],
+ "speed": [
+  "pace"
+ ],
+ "spell": [],
+ "spend": [],
+ "spin": [
+  "weave"
+ ],
+ "spirit": [],
+ "split": [
+  "share",
+  "divide"
+ ],
+ "sponsor": [
+  "fund",
+  "support"
+ ],
+ "sport": [],
+ "spot": [
+  "place"
+ ],
+ "spread": [],
+ "spring": [],
+ "square": [],
+ "stability": [],
+ "stable": [
+  "steady",
+  "solid"
+ ],
+ "staff": [
+  "employee"
+ ],
+ "stage": [],
+ "stain": [
+  "mark"
+ ],
+ "stair": [
+  "steps",
+  "staircase"
+ ],
+ "stake": [
+  "interest"
+ ],
+ "stamp": [],
+ "stand": [],
+ "standard": [],
+ "star": [],
+ "stare": [],
+ "start": [
+  "begin"
+ ],
+ "state": [
+  "country",
+  "nation"
+ ],
+ "statement": [],
+ "station": [],
+ "statistic": [
+  "figure"
+ ],
+ "status": [
+  "progress"
+ ],
+ "stay": [],
+ "steady": [],
+ "steal": [],
+ "steel": [],
+ "stem": [],
+ "step": [
+  "move",
+  "get"
+ ],
+ "stick": [
+  "cane"
+ ],
+ "still": [],
+ "stimulate": [
+  "encourage",
+  "boost"
+ ],
+ "stir": [
+  "mix"
+ ],
+ "stock": [
+  "store"
+ ],
+ "stomach": [
+  "belly"
+ ],
+ "stone": [
+  "rock"
+ ],
+ "stop": [],
+ "storage": [],
+ "store": [
+  "shop"
+ ],
+ "storm": [],
+ "story": [],
+ "straight": [],
+ "strain": [
+  "pressure",
+  "stress"
+ ],
+ "strange": [
+  "weird",
+  "odd",
+  "unusual"
+ ],
+ "stranger": [],
+ "strategy": [
+  "policy"
+ ],
+ "stream": [
+  "creek",
+  "brook"
+ ],
+ "street": [
+  "road"
+ ],
+ "strength": [],
+ "strengthen": [
+  "reinforce",
+  "boost"
+ ],
+ "stress": [
+  "anxious",
+  "tense"
+ ],
+ "stretch": [
+  "part",
+  "section",
+  "leg"
+ ],
+ "strict": [],
+ "strike": [
+  "chimes",
+  "rings"
+ ],
+ "string": [
+  "cord",
+  "rope"
+ ],
+ "strip": [],
+ "stroke": [],
+ "strong": [],
+ "strongly": [
+  "highly"
+ ],
+ "structural": [],
+ "structure": [],
+ "struggle": [],
+ "student": [],
+ "studio": [],
+ "study": [
+  "learn"
+ ],
+ "stuff": [
+  "things"
+ ],
+ "stupid": [
+  "silly",
+  "foolish",
+  "dumb"
+ ],
+ "style": [],
+ "subject": [
+  "topic"
+ ],
+ "submit": [
+  "send",
+  "hand in",
+  "turn in"
+ ],
+ "subsequent": [
+  "next",
+  "following",
+  "later"
+ ],
+ "subsequently": [
+  "later",
+  "eventually"
+ ],
+ "substance": [
+  "compounds"
+ ],
+ "substantial": [
+  "significant",
+  "considerable"
+ ],
+ "substitute": [],
+ "succeed": [],
+ "success": [],
+ "successful": [],
+ "successfully": [],
+ "such": [],
+ "sudden": [],
+ "suddenly": [],
+ "suffer": [],
+ "sufficient": [
+  "enough"
+ ],
+ "sugar": [],
+ "suggest": [
+  "propose",
+  "recommend"
+ ],
+ "suggestion": [
+  "idea"
+ ],
+ "suit": [],
+ "suitable": [
+  "appropriate",
+  "fine"
+ ],
+ "sum": [
+  "total"
+ ],
+ "summarize": [],
+ "summary": [],
+ "summer": [],
+ "sun": [],
+ "supplement": [],
+ "supplier": [
+  "source",
+  "provider"
+ ],
+ "supply": [],
+ "support": [
+  "provide for"
+ ],
+ "supporter": [
+  "backers"
+ ],
+ "suppose": [
+  "expected"
+ ],
+ "sure": [
+  "certain",
+  "confident"
+ ],
+ "surely": [
+  "certainly",
+  "definitely"
+ ],
+ "surface": [],
+ "surgery": [],
+ "surprise": [
+  "shocked",
+  "amazed"
+ ],
+ "surprisingly": [
+  "remarkably",
+  "unexpectedly"
+ ],
+ "surround": [],
+ "survey": [
+  "study"
+ ],
+ "survival": [
+  "life"
+ ],
+ "survive": [],
+ "suspect": [
+  "think",
+  "guess"
+ ],
+ "suspend": [
+  "cancel",
+  "stop"
+ ]
+}

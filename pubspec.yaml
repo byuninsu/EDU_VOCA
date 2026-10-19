@@ -1,0 +1,38 @@
+name: edu_voca
+description: Daily English - sentence-based vocabulary and roleplay practice.
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  google_sign_in: ^7.2.0
+  flutter_tts:
+    path: third_party/flutter_tts
+  sherpa_onnx: 1.13.8
+  firebase_ai: ^4.0.0
+  firebase_app_check: ^0.4.8
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+flutter:
+  uses-material-design: true
+  assets:
+    - images/main_Character.png
+    - images/google_sign_in.png
+    - images/book_puppy.png
+    - images/card_puppy.png
+    - images/disappoint_puppy.png
+    - images/happy_puppy.png
+    - images/studying_puppy.png
+    - assets/data/ngsl.json
+    - data/ngsl/NOTICE.md
+    - data/ngsl/CC-BY-SA-4.0.txt
+    - assets/tts/kitten_nano_v0_8/
+    - assets/tts/kitten_nano_v0_8/espeak-ng-data/
+    - assets/tts/kitten_nano_v0_8/espeak-ng-data/lang/gmw/

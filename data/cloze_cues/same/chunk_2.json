@@ -1,0 +1,696 @@
+{
+ "difficulty": [
+  "trouble"
+ ],
+ "dig": [],
+ "digital": [],
+ "dimension": [
+  "measurements"
+ ],
+ "dinner": [
+  "supper"
+ ],
+ "direct": [
+  "literal"
+ ],
+ "direction": [],
+ "directly": [],
+ "director": [],
+ "dirty": [
+  "messy"
+ ],
+ "disagree": [],
+ "disappear": [
+  "vanishing"
+ ],
+ "disappoint": [
+  "let down"
+ ],
+ "disaster": [
+  "catastrophe"
+ ],
+ "discipline": [
+  "field"
+ ],
+ "discount": [],
+ "discover": [
+  "find"
+ ],
+ "discovery": [
+  "finding"
+ ],
+ "discuss": [
+  "talk about"
+ ],
+ "discussion": [
+  "debate"
+ ],
+ "disease": [
+  "illness"
+ ],
+ "dish": [],
+ "disk": [
+  "drive"
+ ],
+ "dismiss": [
+  "fired",
+  "sacked"
+ ],
+ "disorder": [],
+ "display": [
+  "demonstration",
+  "show"
+ ],
+ "dispute": [
+  "conflict"
+ ],
+ "distance": [],
+ "distant": [
+  "cold"
+ ],
+ "distinct": [
+  "clear",
+  "marked"
+ ],
+ "distinction": [
+  "difference"
+ ],
+ "distinguish": [],
+ "distribute": [
+  "handing out",
+  "giving out"
+ ],
+ "district": [
+  "area",
+  "region"
+ ],
+ "disturb": [
+  "interrupted",
+  "disrupted"
+ ],
+ "diversity": [],
+ "divide": [
+  "split",
+  "cut"
+ ],
+ "division": [
+  "branch"
+ ],
+ "divorce": [],
+ "do": [],
+ "doctor": [],
+ "document": [],
+ "dog": [],
+ "dollar": [
+  "bucks"
+ ],
+ "domestic": [],
+ "dominate": [
+  "control"
+ ],
+ "door": [],
+ "double": [],
+ "doubt": [],
+ "down": [],
+ "dozen": [],
+ "draft": [],
+ "drag": [
+  "pull"
+ ],
+ "drama": [],
+ "dramatic": [
+  "sharp",
+  "drastic"
+ ],
+ "dramatically": [
+  "sharply"
+ ],
+ "draw": [],
+ "dream": [],
+ "dress": [],
+ "drink": [],
+ "drive": [],
+ "driver": [],
+ "drop": [
+  "stopped",
+  "came"
+ ],
+ "drug": [],
+ "dry": [],
+ "due": [
+  "owing"
+ ],
+ "during": [
+  "in",
+  "over"
+ ],
+ "dust": [],
+ "duty": [],
+ "each": [],
+ "ear": [],
+ "early": [],
+ "earn": [
+  "make"
+ ],
+ "earth": [],
+ "ease": [
+  "relieve"
+ ],
+ "easily": [],
+ "east": [],
+ "eastern": [],
+ "easy": [
+  "simple"
+ ],
+ "eat": [],
+ "economic": [],
+ "economy": [],
+ "edge": [],
+ "edit": [],
+ "edition": [],
+ "editor": [],
+ "educate": [
+  "teach"
+ ],
+ "education": [],
+ "educational": [],
+ "effect": [],
+ "effective": [],
+ "effectively": [],
+ "efficiency": [
+  "productivity"
+ ],
+ "efficient": [],
+ "effort": [
+  "hard work"
+ ],
+ "egg": [],
+ "eight": [],
+ "eighty": [],
+ "either": [],
+ "elderly": [
+  "older",
+  "senior"
+ ],
+ "elect": [],
+ "election": [],
+ "electric": [],
+ "electricity": [
+  "power",
+  "energy"
+ ],
+ "electronic": [],
+ "element": [
+  "part",
+  "component"
+ ],
+ "eleven": [],
+ "eliminate": [
+  "remove",
+  "cut"
+ ],
+ "else": [],
+ "elsewhere": [],
+ "email": [
+  "message"
+ ],
+ "embarrass": [],
+ "embrace": [
+  "adopt",
+  "accept"
+ ],
+ "emerge": [
+  "arise",
+  "appear"
+ ],
+ "emergency": [],
+ "emotion": [
+  "feeling"
+ ],
+ "emotional": [],
+ "emphasis": [],
+ "emphasize": [
+  "stress",
+  "highlight"
+ ],
+ "empire": [],
+ "employ": [],
+ "employee": [
+  "hires"
+ ],
+ "employer": [],
+ "employment": [],
+ "empty": [],
+ "enable": [
+  "allows",
+  "helps"
+ ],
+ "encounter": [],
+ "encourage": [],
+ "end": [],
+ "enemy": [],
+ "energy": [
+  "strength"
+ ],
+ "engage": [],
+ "engine": [
+  "motor"
+ ],
+ "engineer": [
+  "developer"
+ ],
+ "enhance": [
+  "improve",
+  "develop"
+ ],
+ "enjoy": [
+  "liked",
+  "loved"
+ ],
+ "enormous": [
+  "huge",
+  "tremendous",
+  "great"
+ ],
+ "enough": [],
+ "ensure": [
+  "make sure",
+  "check"
+ ],
+ "enter": [],
+ "enterprise": [
+  "company",
+  "business",
+  "firm"
+ ],
+ "entertain": [
+  "amuse"
+ ],
+ "entertainment": [
+  "fun"
+ ],
+ "entire": [
+  "whole"
+ ],
+ "entirely": [
+  "completely",
+  "totally"
+ ],
+ "entitle": [],
+ "entrance": [],
+ "entry": [],
+ "envelope": [],
+ "environment": [
+  "surroundings"
+ ],
+ "environmental": [],
+ "episode": [],
+ "equal": [],
+ "equally": [],
+ "equation": [],
+ "equipment": [
+  "gear"
+ ],
+ "equivalent": [
+  "equal",
+  "the same"
+ ],
+ "era": [
+  "age",
+  "period",
+  "epoch"
+ ],
+ "error": [
+  "mistakes"
+ ],
+ "escape": [],
+ "especially": [
+  "particularly"
+ ],
+ "essay": [],
+ "essential": [
+  "vital"
+ ],
+ "establish": [],
+ "establishment": [
+  "founding"
+ ],
+ "estate": [
+  "property"
+ ],
+ "estimate": [],
+ "ethnic": [
+  "cultural"
+ ],
+ "evaluate": [
+  "assess",
+  "consider"
+ ],
+ "evaluation": [
+  "assessment"
+ ],
+ "even": [],
+ "evening": [],
+ "event": [],
+ "eventually": [
+  "sooner or later",
+  "in the end"
+ ],
+ "ever": [],
+ "every": [
+  "each"
+ ],
+ "everybody": [
+  "everyone"
+ ],
+ "everyday": [
+  "daily"
+ ],
+ "everyone": [
+  "everybody"
+ ],
+ "everything": [],
+ "everywhere": [],
+ "evidence": [
+  "proof"
+ ],
+ "evil": [
+  "bad",
+  "wicked"
+ ],
+ "evolution": [],
+ "evolve": [
+  "changing"
+ ],
+ "exact": [],
+ "exactly": [],
+ "exam": [],
+ "examination": [
+  "exam",
+  "test"
+ ],
+ "examine": [
+  "review",
+  "consider"
+ ],
+ "example": [],
+ "exceed": [
+  "go over"
+ ],
+ "excellent": [
+  "great",
+  "fine"
+ ],
+ "except": [],
+ "exception": [],
+ "excess": [],
+ "exchange": [],
+ "excite": [
+  "thrill"
+ ],
+ "excitement": [],
+ "exclude": [
+  "left out"
+ ],
+ "excuse": [
+  "pardon"
+ ],
+ "executive": [],
+ "exercise": [
+  "work out"
+ ],
+ "exhaust": [
+  "use up",
+  "deplete"
+ ],
+ "exhibit": [
+  "show",
+  "display"
+ ],
+ "exhibition": [
+  "show"
+ ],
+ "exist": [],
+ "existence": [],
+ "expand": [
+  "grow"
+ ],
+ "expansion": [
+  "growth"
+ ],
+ "expect": [],
+ "expectation": [
+  "standards"
+ ],
+ "expenditure": [
+  "spending"
+ ],
+ "expense": [
+  "cost"
+ ],
+ "expensive": [],
+ "experience": [],
+ "experiment": [],
+ "experimental": [],
+ "expert": [
+  "specialist"
+ ],
+ "explain": [],
+ "explanation": [],
+ "explore": [
+  "investigate"
+ ],
+ "export": [],
+ "expose": [],
+ "exposure": [],
+ "express": [],
+ "expression": [
+  "phrase"
+ ],
+ "extend": [],
+ "extension": [],
+ "extensive": [],
+ "extent": [
+  "scale"
+ ],
+ "external": [
+  "outside"
+ ],
+ "extra": [
+  "spare"
+ ],
+ "extract": [
+  "take",
+  "remove"
+ ],
+ "extraordinary": [
+  "amazing",
+  "remarkable"
+ ],
+ "extreme": [],
+ "extremely": [
+  "very"
+ ],
+ "eye": [],
+ "face": [],
+ "facility": [],
+ "fact": [],
+ "factor": [],
+ "factory": [],
+ "fade": [],
+ "fail": [],
+ "failure": [],
+ "fair": [],
+ "fairly": [
+  "pretty",
+  "quite"
+ ],
+ "faith": [
+  "belief"
+ ],
+ "faithfully": [],
+ "fall": [],
+ "false": [],
+ "familiar": [],
+ "family": [],
+ "famous": [
+  "well-known"
+ ],
+ "fan": [],
+ "fancy": [],
+ "fantastic": [
+  "great",
+  "amazing"
+ ],
+ "far": [],
+ "farm": [],
+ "farmer": [],
+ "fascinate": [],
+ "fashion": [],
+ "fast": [
+  "quickly"
+ ],
+ "fat": [],
+ "father": [],
+ "fault": [],
+ "favor": [],
+ "favorite": [],
+ "fear": [],
+ "feature": [
+  "include",
+  "showcase"
+ ],
+ "federal": [],
+ "fee": [],
+ "feed": [],
+ "feel": [],
+ "fellow": [
+  "guy"
+ ],
+ "female": [],
+ "fence": [],
+ "festival": [],
+ "few": [
+  "couple of"
+ ],
+ "fiction": [],
+ "field": [
+  "area"
+ ],
+ "fifteen": [],
+ "fifty": [],
+ "fight": [],
+ "figure": [
+  "work"
+ ],
+ "figureout": [
+  "find"
+ ],
+ "file": [],
+ "fill": [],
+ "fillout": [
+  "complete"
+ ],
+ "film": [
+  "movie"
+ ],
+ "filter": [],
+ "final": [],
+ "finally": [],
+ "finance": [
+  "fund"
+ ],
+ "financial": [],
+ "find": [],
+ "findout": [
+  "discover",
+  "learn"
+ ],
+ "fine": [
+  "okay",
+  "all right"
+ ],
+ "finger": [],
+ "finish": [
+  "complete"
+ ],
+ "fire": [],
+ "firm": [
+  "company",
+  "business"
+ ],
+ "firmly": [
+  "tightly"
+ ],
+ "first": [],
+ "firstly": [],
+ "fish": [],
+ "fit": [],
+ "five": [],
+ "fix": [
+  "repair"
+ ],
+ "flag": [],
+ "flash": [],
+ "flat": [],
+ "flexible": [],
+ "flight": [],
+ "float": [],
+ "flood": [],
+ "floor": [],
+ "flow": [
+  "runs"
+ ],
+ "flower": [],
+ "fly": [],
+ "focus": [
+  "concern"
+ ],
+ "fold": [],
+ "folk": [
+  "traditional"
+ ],
+ "follow": [],
+ "food": [],
+ "fool": [
+  "idiot"
+ ],
+ "foot": [],
+ "football": [],
+ "for": [],
+ "force": [],
+ "forecast": [],
+ "foreign": [],
+ "forest": [
+  "woods"
+ ],
+ "forever": [],
+ "forget": [],
+ "form": [
+  "shape"
+ ],
+ "formal": [],
+ "format": [],
+ "formation": [],
+ "former": [],
+ "formula": [],
+ "forth": [],
+ "fortunate": [
+  "lucky"
+ ],
+ "fortune": [],
+ "forty": [],
+ "forward": [],
+ "found": [
+  "start",
+  "establish",
+  "set up"
+ ],
+ "foundation": [
+  "base"
+ ],
+ "four": [],
+ "fragment": [
+  "piece"
+ ],
+ "frame": [],
+ "framework": [],
+ "free": [],
+ "freedom": [
+  "liberty"
+ ],
+ "freeze": [],
+ "frequency": [],
+ "frequent": [
+  "regular"
+ ],
+ "frequently": [
+  "often"
+ ],
+ "fresh": [],
+ "friend": [],
+ "friendly": [
+  "nice"
+ ],
+ "friendship": []
+}

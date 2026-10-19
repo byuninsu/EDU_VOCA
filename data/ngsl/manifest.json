@@ -1,0 +1,13 @@
+{
+  "retrieved": "2026-10-07",
+  "generalCount": 2809,
+  "spokenCount": 721,
+  "overlapCount": 697,
+  "uniqueCount": 2833,
+  "sha256": {
+    "ngsl_definitions.xlsx": "27f8bb4e0948719ffef01a42de0f9e01089b78a12bd576b480d5f14df5e3341c",
+    "ngsl_stats.csv": "2098bab8955a120a9766c6282a51d7d578c6cb0a7d946600d2ffb73ba25a0b44",
+    "spoken_definitions.csv": "0a14606829c67f51a779b98966a47851f8bf4eab5769fe7d017a56bd0d3c1c39",
+    "spoken_stats.csv": "07708940c50a07cac4f507fd1e87bdd50081d7b87713a66a99beb3c8c4d11ac8"
+  }
+}

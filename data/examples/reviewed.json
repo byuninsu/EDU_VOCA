@@ -1,0 +1,290 @@
+{
+ "you": [
+  "I can help ____ tomorrow.",
+  "you",
+  "나는 내일 너를 도와줄 수 있어.",
+  "너를"
+ ],
+ "i": [
+  "____ can help you tomorrow.",
+  "I",
+  "나는 내일 너를 도와줄 수 있어.",
+  "나는"
+ ],
+ "it": [
+  "I can do ____ myself.",
+  "it",
+  "나는 그것을 혼자 할 수 있어.",
+  "그것을"
+ ],
+ "to": [
+  "We walk ____ school every morning.",
+  "to",
+  "우리는 매일 아침 학교로 걸어가요.",
+  "학교로"
+ ],
+ "a": [
+  "I bought ____ book today.",
+  "a",
+  "나는 오늘 책 한 권을 샀어.",
+  "한 권"
+ ],
+ "in": [
+  "The keys are ____ the box.",
+  "in",
+  "열쇠는 상자 안에 있어요.",
+  "안에"
+ ],
+ "on": [
+  "The book is ____ the desk.",
+  "on",
+  "책은 책상 위에 있어요.",
+  "위에"
+ ],
+ "performance": [
+  "We enjoyed the dance ____.",
+  "performance",
+  "우리는 그 무용 공연을 즐겼어요.",
+  "공연"
+ ],
+ "capital": [
+  "Seoul is the ____ of South Korea.",
+  "capital",
+  "서울은 대한민국의 수도예요.",
+  "수도"
+ ],
+ "access": [
+  "Students have ____ to the library.",
+  "access",
+  "학생들에게는 도서관 이용 권한이 있어요.",
+  "이용 권한"
+ ],
+ "rock": [
+  "There is a large ____ near the river.",
+  "rock",
+  "강 근처에 큰 바위가 있어요.",
+  "바위"
+ ],
+ "purchase": [
+  "You can ____ tickets online.",
+  "purchase",
+  "온라인으로 표를 구매할 수 있어요.",
+  "구매"
+ ],
+ "guide": [
+  "Our ____ showed us the old town.",
+  "guide",
+  "우리 안내인은 우리에게 구시가지를 보여 주었어요.",
+  "안내인"
+ ],
+ "urge": [
+  "I ____ you to tell the truth.",
+  "urge",
+  "나는 네가 사실을 말하도록 강력히 권해.",
+  "강력히 권해"
+ ],
+ "priority": [
+  "Safety is our first ____.",
+  "priority",
+  "안전이 우리의 최우선 사항이에요.",
+  "최우선 사항"
+ ],
+ "rose": [
+  "She put a red ____ in the vase.",
+  "rose",
+  "그녀는 꽃병에 빨간 장미 한 송이를 꽂았어요.",
+  "장미"
+ ],
+ "found": [
+  "They plan to ____ a new company.",
+  "found",
+  "그들은 새 회사를 설립할 계획이에요.",
+  "설립"
+ ],
+ "era": [
+  "The internet started a new ____ in communication.",
+  "era",
+  "인터넷은 소통의 새로운 시대를 열었다.",
+  "시대"
+ ],
+ "claim": [
+  "Tom ____ that the car was his.",
+  "claimed",
+  "톰은 그 차가 자기 것이라고 주장했다.",
+  "주장했다"
+ ],
+ "customer": [
+  "Please call ____ service for help.",
+  "customer",
+  "도움이 필요하면 고객 서비스에 전화하세요.",
+  "고객"
+ ],
+ "championship": [
+  "Our team won the national ____.",
+  "championship",
+  "우리 팀이 전국 선수권 대회에서 우승했다.",
+  "선수권 대회"
+ ],
+ "route": [
+  "There are two ____ to the station.",
+  "routes",
+  "역까지 가는 길은 두 가지가 있다.",
+  "길"
+ ],
+ "communication": [
+  "Good ____ builds trust.",
+  "communication",
+  "좋은 소통은 신뢰를 쌓는다.",
+  "소통"
+ ],
+ "instead": [
+  "____ of waiting, just ask him.",
+  "Instead",
+  "기다리는 대신 그냥 그에게 물어봐.",
+  "대신"
+ ],
+ "respectively": [
+  "Tom and Mary are 10 and 12, ____.",
+  "respectively",
+  "톰과 메리는 각각 열 살과 열두 살이다.",
+  "각각"
+ ],
+ "normally": [
+  "____ I get up at seven.",
+  "Normally",
+  "보통 나는 일곱 시에 일어난다.",
+  "보통"
+ ],
+ "disk": [
+  "The hard ____ is full.",
+  "disk",
+  "하드 디스크가 가득 찼다.",
+  "디스크"
+ ],
+ "basis": [
+  "Trust is the ____ of friendship.",
+  "basis",
+  "신뢰는 우정의 기초이다.",
+  "기초"
+ ],
+ "ear": [
+  "He put his ____ to the door.",
+  "ear",
+  "그는 문에 귀를 댔다.",
+  "귀"
+ ],
+ "deliver": [
+  "The package was ____ this morning.",
+  "delivered",
+  "소포는 오늘 아침에 배달되었다.",
+  "배달되었다"
+ ],
+ "frame": [
+  "She ____ the photo and hung it up.",
+  "framed",
+  "그녀는 사진을 액자에 넣어 걸었다.",
+  "액자에 넣어"
+ ],
+ "trial": [
+  "You can use the app free during the ____ period.",
+  "trial",
+  "체험 기간 동안 앱을 무료로 쓸 수 있다.",
+  "체험"
+ ],
+ "violent": [
+  "The movie has some ____ scenes.",
+  "violent",
+  "그 영화에는 폭력적인 장면이 좀 있다.",
+  "폭력적인"
+ ],
+ "process": [
+  "Learning a language is a slow ____.",
+  "process",
+  "언어를 배우는 것은 느린 과정이다.",
+  "과정"
+ ],
+ "fiction": [
+  "I like reading science ____.",
+  "fiction",
+  "나는 공상 과학 소설 읽는 것을 좋아한다.",
+  "소설"
+ ],
+ "toy": [
+  "The children put away their ____.",
+  "toys",
+  "아이들이 장난감을 정리했다.",
+  "장난감"
+ ],
+ "cycle": [
+  "The city built new ____ lanes.",
+  "cycle",
+  "시는 새 자전거 도로를 만들었다.",
+  "자전거"
+ ],
+ "fully": [
+  "The hotel is ____ booked.",
+  "fully",
+  "그 호텔은 예약이 완전히 찼다.",
+  "완전히"
+ ],
+ "twice": [
+  "I called him ____ this week.",
+  "twice",
+  "나는 이번 주에 그에게 두 번 전화했다.",
+  "두 번"
+ ],
+ "description": [
+  "Can you give me a ____ of the man?",
+  "description",
+  "그 남자의 모습을 설명해 줄 수 있나요?",
+  "설명"
+ ],
+ "steel": [
+  "The bridge is made of ____.",
+  "steel",
+  "그 다리는 강철로 만들어졌다.",
+  "강철"
+ ],
+ "politician": [
+  "Her father is a famous ____.",
+  "politician",
+  "그녀의 아버지는 유명한 정치인이다.",
+  "정치인"
+ ],
+ "alternative": [
+  "We need an ____ plan.",
+  "alternative",
+  "우리는 대안 계획이 필요하다.",
+  "대안"
+ ],
+ "propose": [
+  "She ____ a new idea at the meeting.",
+  "proposed",
+  "그녀는 회의에서 새로운 아이디어를 제안했다.",
+  "제안했다"
+ ],
+ "relate": [
+  "I read the news ____ to the deal.",
+  "relating",
+  "나는 그 거래와 관련된 뉴스를 읽었다.",
+  "관련된"
+ ],
+ "submit": [
+  "Please ____ your report by Friday.",
+  "submit",
+  "금요일까지 보고서를 제출해 주세요.",
+  "제출해"
+ ],
+ "negotiate": [
+  "They tried to ____ a peace deal.",
+  "negotiate",
+  "그들은 평화 협정을 협상하려고 했다.",
+  "협상하려고"
+ ],
+ "servant": [
+  "The king's ____ brought him water.",
+  "servant",
+  "왕의 하인이 그에게 물을 가져왔다.",
+  "하인"
+ ]
+}

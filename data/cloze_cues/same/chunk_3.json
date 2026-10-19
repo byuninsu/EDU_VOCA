@@ -1,0 +1,914 @@
+{
+ "frighten": [
+  "scary",
+  "terrifying",
+  "horrifying",
+  "frightful"
+ ],
+ "from": [],
+ "fromnowon": [
+  "going forward",
+  "henceforth"
+ ],
+ "front": [],
+ "fruit": [],
+ "fuel": [
+  "gas",
+  "gasoline"
+ ],
+ "fulfill": [
+  "keep",
+  "honor",
+  "meet"
+ ],
+ "full": [],
+ "fully": [
+  "completely",
+  "totally",
+  "entirely"
+ ],
+ "fun": [
+  "enjoyable",
+  "exciting"
+ ],
+ "function": [
+  "meaning"
+ ],
+ "functional": [
+  "operational",
+  "working"
+ ],
+ "fund": [
+  "financing",
+  "sponsoring",
+  "backing"
+ ],
+ "fundamental": [
+  "basic",
+  "serious"
+ ],
+ "funny": [
+  "humorous",
+  "amusing"
+ ],
+ "furniture": [],
+ "further": [
+  "farther"
+ ],
+ "furthermore": [
+  "moreover",
+  "in addition",
+  "also",
+  "besides"
+ ],
+ "future": [],
+ "gain": [
+  "put on"
+ ],
+ "gallery": [
+  "museum"
+ ],
+ "game": [],
+ "gap": [
+  "difference"
+ ],
+ "garden": [],
+ "gas": [],
+ "gate": [],
+ "gather": [
+  "pulled",
+  "picked"
+ ],
+ "gay": [
+  "same-sex"
+ ],
+ "gaze": [
+  "eyes"
+ ],
+ "gear": [
+  "equipment"
+ ],
+ "gender": [
+  "sex"
+ ],
+ "gene": [],
+ "general": [
+  "commander"
+ ],
+ "generally": [
+  "usually",
+  "normally",
+  "typically"
+ ],
+ "generate": [
+  "produce",
+  "bring in",
+  "create",
+  "yield"
+ ],
+ "generation": [],
+ "genetic": [],
+ "gentle": [
+  "soft",
+  "slight",
+  "smooth"
+ ],
+ "gentleman": [
+  "man"
+ ],
+ "gently": [
+  "softly",
+  "tenderly"
+ ],
+ "genuine": [
+  "sincere",
+  "real",
+  "true",
+  "heartfelt"
+ ],
+ "gesture": [],
+ "get": [
+  "come"
+ ],
+ "getalongwith": [
+  "get on with"
+ ],
+ "getoff": [],
+ "geton": [
+  "catch",
+  "take",
+  "board"
+ ],
+ "getover": [
+  "recover from",
+  "shake off"
+ ],
+ "getup": [
+  "wake up",
+  "rise"
+ ],
+ "giant": [
+  "huge",
+  "enormous",
+  "massive"
+ ],
+ "gift": [
+  "present"
+ ],
+ "girl": [],
+ "give": [
+  "return",
+  "hand"
+ ],
+ "giveup": [],
+ "glad": [
+  "happy",
+  "pleased"
+ ],
+ "glance": [
+  "look"
+ ],
+ "glass": [],
+ "global": [
+  "international",
+  "worldwide"
+ ],
+ "go": [],
+ "goal": [
+  "purpose",
+  "aim",
+  "objective"
+ ],
+ "goback": [
+  "return"
+ ],
+ "god": [],
+ "gold": [],
+ "golden": [
+  "gold"
+ ],
+ "golf": [],
+ "good": [],
+ "goout": [
+  "eat out",
+  "head out"
+ ],
+ "govern": [
+  "rule",
+  "run"
+ ],
+ "government": [],
+ "governor": [],
+ "grab": [
+  "get",
+  "have"
+ ],
+ "grade": [
+  "marks",
+  "scores"
+ ],
+ "gradually": [
+  "slowly"
+ ],
+ "graduate": [],
+ "grain": [],
+ "grammar": [],
+ "grand": [
+  "magnificent",
+  "splendid",
+  "large"
+ ],
+ "grandmother": [
+  "grandma"
+ ],
+ "grant": [
+  "subsidy"
+ ],
+ "grass": [
+  "lawn"
+ ],
+ "grateful": [
+  "thankful"
+ ],
+ "gray": [],
+ "great": [
+  "wonderful",
+  "fantastic",
+  "memorable"
+ ],
+ "greatly": [
+  "considerably",
+  "significantly",
+  "remarkably"
+ ],
+ "green": [],
+ "greet": [
+  "welcome",
+  "salute"
+ ],
+ "grin": [
+  "smile"
+ ],
+ "ground": [
+  "earth",
+  "grave"
+ ],
+ "group": [
+  "team"
+ ],
+ "grow": [
+  "get",
+  "become"
+ ],
+ "growth": [
+  "increase"
+ ],
+ "guarantee": [
+  "warrants"
+ ],
+ "guard": [
+  "protect",
+  "defend"
+ ],
+ "guess": [
+  "think",
+  "suppose"
+ ],
+ "guest": [
+  "visitor"
+ ],
+ "guide": [],
+ "guideline": [
+  "policy",
+  "rule",
+  "regulation"
+ ],
+ "guilty": [],
+ "guitar": [],
+ "gun": [
+  "weapon"
+ ],
+ "guy": [
+  "all",
+  "folks"
+ ],
+ "habit": [],
+ "hair": [],
+ "half": [],
+ "hall": [],
+ "hand": [],
+ "handle": [],
+ "hang": [
+  "hovered",
+  "lingered"
+ ],
+ "hangout": [
+  "spend time"
+ ],
+ "happen": [],
+ "happiness": [],
+ "happy": [
+  "glad",
+  "pleased"
+ ],
+ "harbor": [
+  "port"
+ ],
+ "hard": [
+  "difficult",
+  "tough"
+ ],
+ "hardly": [
+  "barely",
+  "rarely",
+  "seldom"
+ ],
+ "harm": [
+  "damage",
+  "hurt",
+  "injure"
+ ],
+ "hat": [
+  "cap"
+ ],
+ "hate": [],
+ "have": [
+  "share"
+ ],
+ "he": [],
+ "head": [],
+ "health": [],
+ "healthy": [
+  "well",
+  "fine",
+  "fit"
+ ],
+ "hear": [],
+ "heart": [],
+ "heat": [],
+ "heavily": [
+  "highly",
+  "largely"
+ ],
+ "heavy": [],
+ "height": [],
+ "hell": [
+  "heck",
+  "devil"
+ ],
+ "hello": [],
+ "help": [],
+ "helpful": [
+  "useful",
+  "valuable"
+ ],
+ "hence": [
+  "thus",
+  "therefore"
+ ],
+ "here": [],
+ "hero": [
+  "protagonist"
+ ],
+ "herself": [],
+ "hesitate": [],
+ "hi": [
+  "hey",
+  "hello"
+ ],
+ "hide": [],
+ "high": [],
+ "highlight": [
+  "emphasize",
+  "stress",
+  "underline"
+ ],
+ "highly": [
+  "very",
+  "extremely"
+ ],
+ "hill": [],
+ "himself": [],
+ "hint": [
+  "clue"
+ ],
+ "hire": [
+  "employ"
+ ],
+ "historian": [],
+ "historic": [
+  "landmark"
+ ],
+ "historical": [
+  "old"
+ ],
+ "history": [
+  "past"
+ ],
+ "hit": [
+  "song"
+ ],
+ "hold": [
+  "hang"
+ ],
+ "holder": [
+  "owner",
+  "name"
+ ],
+ "holdon": [
+  "wait",
+  "hang on"
+ ],
+ "hole": [],
+ "holiday": [
+  "vacation"
+ ],
+ "home": [],
+ "honest": [
+  "truthful",
+  "frank",
+  "open"
+ ],
+ "honor": [
+  "privilege",
+  "pleasure"
+ ],
+ "hook": [],
+ "hope": [],
+ "hopefully": [],
+ "horrible": [
+  "terrible",
+  "awful",
+  "dreadful"
+ ],
+ "horse": [],
+ "hospital": [],
+ "host": [],
+ "hot": [
+  "warm"
+ ],
+ "hotel": [],
+ "hour": [],
+ "house": [
+  "home"
+ ],
+ "household": [
+  "family",
+  "home"
+ ],
+ "how": [],
+ "however": [
+  "but",
+  "yet"
+ ],
+ "huge": [
+  "enormous",
+  "vast",
+  "massive",
+  "large"
+ ],
+ "human": [],
+ "humor": [
+  "jokes"
+ ],
+ "hundred": [],
+ "hunger": [
+  "starvation"
+ ],
+ "hungry": [
+  "starving"
+ ],
+ "hunt": [],
+ "hurry": [],
+ "hurryup": [
+  "rush"
+ ],
+ "hurt": [
+  "aches"
+ ],
+ "husband": [],
+ "hypothesis": [
+  "theory",
+  "assumption"
+ ],
+ "i": [],
+ "ice": [],
+ "idea": [],
+ "ideal": [
+  "perfect",
+  "great"
+ ],
+ "identify": [
+  "found",
+  "discovered",
+  "isolated"
+ ],
+ "identity": [],
+ "if": [],
+ "ignore": [
+  "disregard",
+  "neglect"
+ ],
+ "ill": [
+  "sick"
+ ],
+ "illegal": [
+  "unlawful"
+ ],
+ "illness": [
+  "disease",
+  "sickness"
+ ],
+ "illustrate": [
+  "shows",
+  "depicts"
+ ],
+ "illustration": [
+  "pictures",
+  "drawings",
+  "images"
+ ],
+ "image": [
+  "pictures"
+ ],
+ "imagination": [
+  "creativity"
+ ],
+ "imagine": [],
+ "immediate": [
+  "prompt",
+  "urgent",
+  "instant"
+ ],
+ "immediately": [
+  "right away",
+  "at once",
+  "straight away"
+ ],
+ "immigrant": [
+  "migrant"
+ ],
+ "immigration": [
+  "visa"
+ ],
+ "implement": [
+  "introduce",
+  "apply",
+  "adopt"
+ ],
+ "implementation": [
+  "execution"
+ ],
+ "implication": [
+  "consequences"
+ ],
+ "imply": [
+  "mean",
+  "suggest",
+  "indicate"
+ ],
+ "import": [],
+ "importance": [
+  "significance"
+ ],
+ "important": [],
+ "impose": [],
+ "impossible": [],
+ "impress": [
+  "moved",
+  "touched"
+ ],
+ "impression": [],
+ "impressive": [
+  "remarkable",
+  "amazing"
+ ],
+ "improve": [
+  "get better",
+  "progress"
+ ],
+ "improvement": [],
+ "in": [
+  "inside"
+ ],
+ "incentive": [],
+ "inch": [],
+ "incident": [
+  "event",
+  "accident"
+ ],
+ "include": [],
+ "income": [
+  "salary",
+  "earnings",
+  "wages",
+  "pay"
+ ],
+ "incorporate": [
+  "integrate",
+  "include"
+ ],
+ "increase": [
+  "raised"
+ ],
+ "increasingly": [
+  "more and more"
+ ],
+ "indeed": [
+  "truly",
+  "really"
+ ],
+ "independence": [
+  "freedom"
+ ],
+ "independent": [
+  "self-reliant"
+ ],
+ "index": [],
+ "indicate": [
+  "show",
+  "reveal"
+ ],
+ "indication": [
+  "sign"
+ ],
+ "individual": [
+  "person"
+ ],
+ "industrial": [],
+ "industry": [
+  "sector"
+ ],
+ "infant": [
+  "baby"
+ ],
+ "infection": [],
+ "inflation": [],
+ "influence": [
+  "effect",
+  "impact"
+ ],
+ "inform": [
+  "told"
+ ],
+ "information": [
+  "data"
+ ],
+ "initial": [
+  "original"
+ ],
+ "initially": [
+  "at first",
+  "originally"
+ ],
+ "initiative": [
+  "program",
+  "scheme",
+  "project"
+ ],
+ "injure": [
+  "hurt"
+ ],
+ "injury": [
+  "wounds"
+ ],
+ "inner": [],
+ "innocent": [],
+ "innovation": [],
+ "input": [],
+ "inquiry": [
+  "investigation"
+ ],
+ "inside": [
+  "in"
+ ],
+ "insight": [
+  "understanding"
+ ],
+ "insist": [],
+ "inspire": [
+  "motivated",
+  "moved"
+ ],
+ "install": [],
+ "instance": [
+  "case",
+  "example"
+ ],
+ "instead": [],
+ "institution": [
+  "organization"
+ ],
+ "institutional": [],
+ "instruction": [
+  "directions"
+ ],
+ "instrument": [],
+ "insurance": [],
+ "insure": [],
+ "integrate": [],
+ "intellectual": [],
+ "intelligence": [],
+ "intend": [
+  "plan",
+  "mean"
+ ],
+ "intense": [
+  "extreme",
+  "strong"
+ ],
+ "intention": [
+  "motives",
+  "aims",
+  "purposes"
+ ],
+ "interaction": [],
+ "interest": [],
+ "interior": [
+  "inside"
+ ],
+ "internal": [],
+ "international": [
+  "global"
+ ],
+ "interpret": [
+  "understand"
+ ],
+ "interpretation": [],
+ "intervention": [],
+ "interview": [],
+ "intheend": [
+  "eventually",
+  "finally"
+ ],
+ "into": [],
+ "introduce": [],
+ "introduction": [],
+ "invent": [
+  "create"
+ ],
+ "invest": [],
+ "investigate": [
+  "examine",
+  "look into"
+ ],
+ "investigation": [
+  "inquiry",
+  "probe"
+ ],
+ "investment": [],
+ "investor": [],
+ "invitation": [],
+ "invite": [
+  "bring"
+ ],
+ "involve": [
+  "include",
+  "require"
+ ],
+ "involvement": [
+  "participation"
+ ],
+ "iron": [
+  "steel"
+ ],
+ "island": [],
+ "isolate": [
+  "lonely"
+ ],
+ "issue": [
+  "problem"
+ ],
+ "it": [],
+ "item": [],
+ "itself": [],
+ "jacket": [
+  "coat"
+ ],
+ "jail": [
+  "prison"
+ ],
+ "job": [],
+ "join": [],
+ "joint": [],
+ "joke": [],
+ "journal": [
+  "magazine"
+ ],
+ "journalist": [
+  "reporter"
+ ],
+ "journey": [],
+ "joy": [
+  "happiness"
+ ],
+ "judge": [],
+ "judgment": [
+  "decision",
+  "ruling"
+ ],
+ "jump": [
+  "leaped",
+  "leapt",
+  "hopped"
+ ],
+ "jury": [],
+ "just": [
+  "only",
+  "simply"
+ ],
+ "justice": [
+  "fairness"
+ ],
+ "justify": [
+  "explain",
+  "defend"
+ ],
+ "keen": [
+  "strong",
+  "tough"
+ ],
+ "keep": [],
+ "keepaneyeon": [
+  "watch",
+  "look after",
+  "mind"
+ ],
+ "key": [],
+ "kick": [],
+ "kid": [
+  "child"
+ ],
+ "kill": [
+  "murder"
+ ],
+ "kind": [
+  "type",
+  "sort"
+ ],
+ "king": [],
+ "kiss": [],
+ "kitchen": [],
+ "knee": [],
+ "knife": [],
+ "knock": [
+  "tapped",
+  "banged"
+ ],
+ "know": [],
+ "knowledge": [],
+ "label": [
+  "tag"
+ ],
+ "labor": [
+  "work"
+ ],
+ "laboratory": [
+  "lab"
+ ],
+ "lack": [],
+ "lady": [
+  "woman"
+ ],
+ "lake": [],
+ "land": [],
+ "landscape": [
+  "scenery"
+ ],
+ "language": [],
+ "large": [
+  "big",
+  "huge"
+ ],
+ "largely": [
+  "mainly",
+  "mostly",
+  "primarily",
+  "chiefly"
+ ],
+ "last": [],
+ "late": [],
+ "later": [],
+ "latter": [
+  "second"
+ ],
+ "laugh": [],
+ "laughter": [],
+ "launch": [
+  "started",
+  "began",
+  "started up"
+ ],
+ "law": [],
+ "lawyer": [
+  "attorney"
+ ],
+ "lay": [],
+ "layer": [],
+ "lazy": [],
+ "lead": [],
+ "leader": [],
+ "leadership": [],
+ "league": [],
+ "lean": []
+}

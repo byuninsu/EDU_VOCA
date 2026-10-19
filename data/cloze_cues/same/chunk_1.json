@@ -1,0 +1,912 @@
+{
+ "capture": [
+  "photograph",
+  "catch"
+ ],
+ "car": [
+  "vehicle"
+ ],
+ "carbon": [],
+ "card": [],
+ "care": [],
+ "career": [
+  "profession"
+ ],
+ "careful": [],
+ "carefully": [
+  "closely",
+  "attentively"
+ ],
+ "carpet": [
+  "rug"
+ ],
+ "carry": [],
+ "carryon": [
+  "continue",
+  "go on",
+  "keep going"
+ ],
+ "carryout": [
+  "execute",
+  "implement",
+  "perform",
+  "conduct"
+ ],
+ "case": [
+  "matter"
+ ],
+ "cash": [],
+ "cast": [
+  "actors",
+  "troupe"
+ ],
+ "castle": [
+  "palace"
+ ],
+ "cat": [],
+ "catalog": [],
+ "catch": [
+  "get"
+ ],
+ "category": [],
+ "cause": [],
+ "celebrate": [],
+ "celebration": [
+  "festival",
+  "festivity",
+  "party"
+ ],
+ "cell": [
+  "mobile"
+ ],
+ "cent": [
+  "penny"
+ ],
+ "center": [
+  "middle"
+ ],
+ "central": [
+  "main",
+  "key",
+  "core",
+  "principal"
+ ],
+ "century": [],
+ "ceremony": [],
+ "certain": [
+  "sure"
+ ],
+ "certainly": [
+  "definitely",
+  "surely"
+ ],
+ "chain": [],
+ "chair": [
+  "seat"
+ ],
+ "chairman": [
+  "chair",
+  "chairperson",
+  "president"
+ ],
+ "challenge": [
+  "difficulty",
+  "problem"
+ ],
+ "chamber": [
+  "hall",
+  "room"
+ ],
+ "champion": [
+  "winner"
+ ],
+ "championship": [
+  "title",
+  "tournament",
+  "competition"
+ ],
+ "chance": [
+  "opportunity"
+ ],
+ "change": [
+  "exchange"
+ ],
+ "channel": [
+  "station"
+ ],
+ "chapter": [],
+ "character": [],
+ "characteristic": [
+  "distinctive",
+  "typical"
+ ],
+ "characterize": [
+  "describe"
+ ],
+ "charge": [],
+ "charity": [],
+ "charm": [
+  "appeal",
+  "charisma"
+ ],
+ "chart": [
+  "graph",
+  "diagram"
+ ],
+ "chase": [
+  "pursue"
+ ],
+ "chat": [
+  "talk",
+  "conversation"
+ ],
+ "cheap": [
+  "inexpensive"
+ ],
+ "check": [
+  "bill"
+ ],
+ "checkin": [
+  "register"
+ ],
+ "checkout": [
+  "leave"
+ ],
+ "cheek": [],
+ "cheerup": [
+  "feel better"
+ ],
+ "cheese": [],
+ "chemical": [],
+ "chest": [
+  "box",
+  "trunk"
+ ],
+ "chicken": [],
+ "chief": [
+  "main",
+  "principal",
+  "primary"
+ ],
+ "child": [
+  "kids"
+ ],
+ "childhood": [],
+ "chip": [
+  "crisps"
+ ],
+ "chocolate": [],
+ "choice": [
+  "option",
+  "alternative"
+ ],
+ "choose": [
+  "selected",
+  "picked"
+ ],
+ "church": [],
+ "cigarette": [],
+ "circle": [],
+ "circumstance": [
+  "situation",
+  "case"
+ ],
+ "cite": [
+  "reference"
+ ],
+ "citizen": [],
+ "city": [],
+ "civil": [],
+ "civilian": [],
+ "claim": [
+  "said",
+  "insisted",
+  "stated"
+ ],
+ "class": [],
+ "classic": [],
+ "classical": [],
+ "clause": [],
+ "clean": [
+  "tidy"
+ ],
+ "cleanup": [
+  "tidy",
+  "tidy up"
+ ],
+ "clear": [
+  "cloudless"
+ ],
+ "clearly": [
+  "well"
+ ],
+ "click": [
+  "tap"
+ ],
+ "climate": [],
+ "climb": [
+  "ascended",
+  "scaled"
+ ],
+ "clinical": [
+  "medical"
+ ],
+ "clock": [],
+ "close": [
+  "shut"
+ ],
+ "closely": [
+  "carefully",
+  "attentively"
+ ],
+ "clothes": [
+  "clothing"
+ ],
+ "clothing": [
+  "apparel",
+  "fashion"
+ ],
+ "cloud": [],
+ "club": [
+  "team"
+ ],
+ "cluster": [
+  "group"
+ ],
+ "coach": [
+  "trained"
+ ],
+ "coal": [],
+ "coast": [
+  "shore",
+  "coastline",
+  "sea"
+ ],
+ "coat": [
+  "jacket"
+ ],
+ "code": [],
+ "coffee": [],
+ "coin": [],
+ "cold": [],
+ "collapse": [
+  "faint",
+  "pass out"
+ ],
+ "colleague": [
+  "coworkers",
+  "co-workers"
+ ],
+ "collect": [
+  "pick up"
+ ],
+ "collection": [
+  "set",
+  "series"
+ ],
+ "college": [
+  "university"
+ ],
+ "color": [],
+ "column": [],
+ "combination": [
+  "blend",
+  "mix",
+  "fusion"
+ ],
+ "combine": [
+  "blends",
+  "mixes",
+  "merges"
+ ],
+ "come": [
+  "gone"
+ ],
+ "comeback": [
+  "return"
+ ],
+ "comedy": [],
+ "comein": [
+  "enter"
+ ],
+ "comeupwith": [
+  "think of",
+  "suggest",
+  "propose"
+ ],
+ "comfort": [
+  "solace",
+  "consolation"
+ ],
+ "comfortable": [
+  "happy",
+  "at ease"
+ ],
+ "command": [
+  "order"
+ ],
+ "comment": [],
+ "commercial": [
+  "advertisement",
+  "ad"
+ ],
+ "commission": [
+  "committee",
+  "board"
+ ],
+ "commit": [],
+ "commitment": [
+  "promise",
+  "obligation",
+  "pledge"
+ ],
+ "committee": [
+  "board",
+  "commission",
+  "council"
+ ],
+ "common": [],
+ "communicate": [],
+ "communication": [],
+ "community": [
+  "backgrounds",
+  "groups"
+ ],
+ "company": [
+  "business",
+  "firm"
+ ],
+ "compare": [],
+ "comparison": [],
+ "compensation": [
+  "pay",
+  "wages"
+ ],
+ "compete": [
+  "ran",
+  "raced"
+ ],
+ "competition": [
+  "play"
+ ],
+ "competitive": [],
+ "competitor": [
+  "opponent",
+  "rival"
+ ],
+ "complain": [],
+ "complaint": [],
+ "complete": [
+  "full"
+ ],
+ "completely": [
+  "perfectly",
+  "totally",
+  "entirely"
+ ],
+ "complex": [
+  "complicated"
+ ],
+ "complexity": [
+  "difficulty"
+ ],
+ "complicate": [],
+ "component": [
+  "part"
+ ],
+ "compose": [
+  "write",
+  "create"
+ ],
+ "composition": [],
+ "compound": [
+  "substance"
+ ],
+ "comprehensive": [
+  "thorough",
+  "complete",
+  "full"
+ ],
+ "comprise": [
+  "includes",
+  "contains"
+ ],
+ "compromise": [
+  "agreement",
+  "deal",
+  "settlement"
+ ],
+ "compute": [
+  "calculate"
+ ],
+ "computer": [],
+ "concentrate": [
+  "focusing"
+ ],
+ "concentration": [
+  "focus"
+ ],
+ "concept": [
+  "idea",
+  "notion"
+ ],
+ "concern": [
+  "worried"
+ ],
+ "concert": [],
+ "conclude": [],
+ "conclusion": [],
+ "concrete": [],
+ "condition": [
+  "circumstances"
+ ],
+ "conduct": [
+  "carry out",
+  "perform",
+  "do"
+ ],
+ "conference": [
+  "meeting"
+ ],
+ "confidence": [],
+ "confident": [],
+ "confirm": [
+  "verify"
+ ],
+ "conflict": [
+  "war"
+ ],
+ "confuse": [
+  "mix up",
+  "confound"
+ ],
+ "confusion": [
+  "misunderstanding"
+ ],
+ "connect": [
+  "links",
+  "joins"
+ ],
+ "connection": [],
+ "consequence": [
+  "outcome",
+  "result",
+  "impact"
+ ],
+ "consequently": [
+  "so",
+  "therefore",
+  "as a result"
+ ],
+ "conservative": [
+  "traditional"
+ ],
+ "consider": [
+  "examine",
+  "look at",
+  "think about",
+  "view"
+ ],
+ "considerable": [
+  "significant",
+  "large",
+  "substantial"
+ ],
+ "consideration": [
+  "thought"
+ ],
+ "consist": [],
+ "consistent": [
+  "uniform"
+ ],
+ "constant": [
+  "continuous",
+  "continual"
+ ],
+ "constantly": [
+  "always",
+  "continually",
+  "continuously"
+ ],
+ "constitute": [
+  "form",
+  "make up"
+ ],
+ "constraint": [
+  "limitation",
+  "limit"
+ ],
+ "construct": [
+  "build"
+ ],
+ "construction": [
+  "building"
+ ],
+ "consult": [
+  "check",
+  "read"
+ ],
+ "consultant": [
+  "advisor",
+  "adviser"
+ ],
+ "consume": [
+  "use"
+ ],
+ "consumer": [
+  "customer",
+  "buyer"
+ ],
+ "contact": [],
+ "contain": [
+  "include",
+  "have"
+ ],
+ "contemporary": [
+  "modern"
+ ],
+ "content": [],
+ "contest": [
+  "competition"
+ ],
+ "context": [
+  "situation",
+  "circumstances"
+ ],
+ "continue": [
+  "led",
+  "went"
+ ],
+ "continuous": [
+  "constant",
+  "ongoing"
+ ],
+ "contract": [
+  "agreement"
+ ],
+ "contrast": [],
+ "contribute": [],
+ "contribution": [
+  "donations"
+ ],
+ "control": [],
+ "controversial": [
+  "disputed",
+  "contentious"
+ ],
+ "convention": [
+  "conference"
+ ],
+ "conventional": [
+  "traditional",
+  "standard"
+ ],
+ "conversation": [
+  "talk",
+  "discussion"
+ ],
+ "convert": [
+  "change",
+  "transform"
+ ],
+ "convince": [
+  "persuade"
+ ],
+ "cook": [
+  "make"
+ ],
+ "cool": [],
+ "cooperation": [
+  "collaboration"
+ ],
+ "cope": [
+  "deal"
+ ],
+ "copy": [],
+ "core": [],
+ "corner": [],
+ "corporate": [],
+ "corporation": [
+  "company",
+  "firm"
+ ],
+ "correct": [
+  "fix"
+ ],
+ "correspond": [
+  "relate"
+ ],
+ "cost": [],
+ "cough": [],
+ "could": [
+  "can"
+ ],
+ "council": [],
+ "counsel": [
+  "advise"
+ ],
+ "count": [
+  "rely",
+  "depend"
+ ],
+ "counter": [
+  "desk"
+ ],
+ "country": [
+  "countryside"
+ ],
+ "county": [],
+ "couple": [],
+ "course": [],
+ "court": [],
+ "cousin": [],
+ "cover": [],
+ "coverage": [
+  "protection"
+ ],
+ "cow": [],
+ "crack": [
+  "break"
+ ],
+ "craft": [],
+ "crash": [],
+ "crazy": [
+  "mad",
+  "insane"
+ ],
+ "cream": [],
+ "create": [
+  "made"
+ ],
+ "creation": [
+  "making"
+ ],
+ "creative": [],
+ "creature": [
+  "animals",
+  "beings"
+ ],
+ "credit": [],
+ "crew": [
+  "staff",
+  "team"
+ ],
+ "crime": [],
+ "criminal": [],
+ "crisis": [],
+ "criteria": [
+  "standards"
+ ],
+ "critic": [
+  "reviewer"
+ ],
+ "critical": [],
+ "criticism": [
+  "reviews"
+ ],
+ "criticize": [],
+ "crop": [
+  "harvest"
+ ],
+ "cross": [],
+ "crowd": [
+  "audience"
+ ],
+ "crucial": [
+  "essential",
+  "vital",
+  "key",
+  "critical"
+ ],
+ "cry": [],
+ "cultural": [],
+ "culture": [],
+ "cup": [],
+ "curious": [],
+ "currency": [],
+ "current": [
+  "present",
+  "existing"
+ ],
+ "currently": [
+  "now"
+ ],
+ "curtain": [
+  "drapes"
+ ],
+ "curve": [
+  "bend"
+ ],
+ "custom": [
+  "traditions"
+ ],
+ "customer": [],
+ "cut": [],
+ "cycle": [
+  "bike",
+  "bicycle"
+ ],
+ "dad": [
+  "father"
+ ],
+ "daily": [
+  "every day"
+ ],
+ "damage": [],
+ "damn": [],
+ "dance": [],
+ "danger": [
+  "trouble"
+ ],
+ "dangerous": [
+  "unsafe"
+ ],
+ "dare": [],
+ "dark": [
+  "nightfall",
+  "night"
+ ],
+ "darkness": [
+  "dark"
+ ],
+ "data": [
+  "information"
+ ],
+ "database": [],
+ "date": [],
+ "daughter": [],
+ "day": [],
+ "dead": [],
+ "deal": [
+  "cope"
+ ],
+ "dealer": [
+  "seller"
+ ],
+ "dealwith": [
+  "solve",
+  "handle",
+  "address",
+  "tackle"
+ ],
+ "dear": [
+  "expensive"
+ ],
+ "death": [],
+ "debate": [
+  "deciding",
+  "wondering"
+ ],
+ "debt": [],
+ "decade": [],
+ "decide": [],
+ "decision": [
+  "choice",
+  "call"
+ ],
+ "declare": [],
+ "decline": [
+  "refuse",
+  "reject",
+  "turn down"
+ ],
+ "decrease": [
+  "drop",
+  "fall",
+  "decline",
+  "reduction"
+ ],
+ "dedicate": [
+  "devote"
+ ],
+ "deep": [],
+ "deeply": [],
+ "defeat": [
+  "beat"
+ ],
+ "defend": [
+  "protect"
+ ],
+ "defense": [],
+ "deficit": [],
+ "define": [],
+ "definitely": [
+  "certainly",
+  "surely"
+ ],
+ "definition": [],
+ "degree": [],
+ "delay": [],
+ "delight": [
+  "joy",
+  "happiness"
+ ],
+ "deliver": [],
+ "delivery": [
+  "shipping"
+ ],
+ "demand": [],
+ "democracy": [],
+ "democratic": [],
+ "demonstrate": [
+  "show"
+ ],
+ "demonstration": [
+  "rally",
+  "march"
+ ],
+ "density": [],
+ "deny": [],
+ "department": [],
+ "depend": [],
+ "dependent": [
+  "reliant"
+ ],
+ "deposit": [
+  "put"
+ ],
+ "depress": [
+  "sadden",
+  "upset"
+ ],
+ "depression": [],
+ "depth": [],
+ "derive": [
+  "come"
+ ],
+ "describe": [
+  "explain",
+  "outline"
+ ],
+ "description": [],
+ "desert": [],
+ "deserve": [
+  "merits"
+ ],
+ "design": [
+  "created",
+  "made"
+ ],
+ "designer": [],
+ "desire": [
+  "wish"
+ ],
+ "desk": [],
+ "despite": [
+  "in spite of"
+ ],
+ "destroy": [],
+ "destruction": [
+  "damage",
+  "devastation"
+ ],
+ "detail": [],
+ "detect": [
+  "sense"
+ ],
+ "determination": [],
+ "determine": [
+  "identify",
+  "find"
+ ],
+ "develop": [],
+ "development": [],
+ "device": [
+  "appliance"
+ ],
+ "devote": [
+  "dedicate"
+ ],
+ "dialog": [
+  "conversation"
+ ],
+ "die": [],
+ "diet": [],
+ "differ": [],
+ "difference": [],
+ "different": [],
+ "differently": [],
+ "difficult": [
+  "hard"
+ ]
+}

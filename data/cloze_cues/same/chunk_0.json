@@ -1,0 +1,785 @@
+{
+ "a": [],
+ "abandon": [
+  "leave",
+  "desert"
+ ],
+ "ability": [
+  "capacity"
+ ],
+ "able": [],
+ "abortion": [],
+ "about": [],
+ "above": [],
+ "abroad": [
+  "overseas"
+ ],
+ "absence": [],
+ "absolute": [],
+ "absolutely": [],
+ "abstract": [],
+ "abuse": [
+  "mistreat",
+  "hurt"
+ ],
+ "academic": [],
+ "accept": [
+  "embrace"
+ ],
+ "acceptable": [
+  "reasonable",
+  "satisfactory"
+ ],
+ "access": [],
+ "accident": [
+  "mistake"
+ ],
+ "accommodation": [],
+ "accompany": [
+  "escort",
+  "take",
+  "lead"
+ ],
+ "accomplish": [
+  "achieve",
+  "complete",
+  "perform"
+ ],
+ "accord": [
+  "agreement",
+  "treaty",
+  "deal"
+ ],
+ "account": [],
+ "accurate": [
+  "precise",
+  "exact",
+  "correct"
+ ],
+ "accuse": [
+  "blaming"
+ ],
+ "achieve": [
+  "reached",
+  "accomplished",
+  "attained"
+ ],
+ "achievement": [
+  "accomplishment"
+ ],
+ "acknowledge": [
+  "recognize",
+  "admit"
+ ],
+ "acquire": [
+  "buy",
+  "purchase",
+  "take over"
+ ],
+ "acquisition": [
+  "addition"
+ ],
+ "across": [],
+ "act": [
+  "behave"
+ ],
+ "action": [
+  "measures",
+  "steps"
+ ],
+ "active": [],
+ "activity": [],
+ "actor": [],
+ "actual": [
+  "real",
+  "true"
+ ],
+ "actually": [
+  "really"
+ ],
+ "ad": [
+  "advertisements",
+  "commercials",
+  "adverts"
+ ],
+ "adapt": [
+  "adjust"
+ ],
+ "add": [
+  "put",
+  "insert"
+ ],
+ "addition": [],
+ "additional": [
+  "more",
+  "further",
+  "extra"
+ ],
+ "address": [],
+ "adequate": [
+  "sufficient",
+  "enough",
+  "proper"
+ ],
+ "adjust": [],
+ "adjustment": [
+  "changes",
+  "modifications"
+ ],
+ "administration": [
+  "management"
+ ],
+ "admire": [
+  "respect",
+  "appreciate"
+ ],
+ "admit": [
+  "accept",
+  "acknowledge",
+  "confess"
+ ],
+ "adopt": [
+  "take",
+  "use"
+ ],
+ "adult": [
+  "grown-up"
+ ],
+ "advance": [],
+ "advantage": [],
+ "adventure": [
+  "journey",
+  "expedition"
+ ],
+ "advertise": [
+  "promote",
+  "market"
+ ],
+ "advertisement": [
+  "ad",
+  "commercial"
+ ],
+ "advice": [
+  "help"
+ ],
+ "advise": [
+  "recommend",
+  "suggest"
+ ],
+ "adviser": [
+  "counselor"
+ ],
+ "advocate": [],
+ "affair": [
+  "business"
+ ],
+ "affect": [
+  "harm",
+  "damage",
+  "hurt"
+ ],
+ "afford": [],
+ "afraid": [
+  "scared"
+ ],
+ "after": [],
+ "afternoon": [],
+ "again": [],
+ "against": [],
+ "age": [
+  "years"
+ ],
+ "agency": [
+  "organization"
+ ],
+ "agenda": [
+  "list"
+ ],
+ "agent": [],
+ "aggressive": [
+  "fierce",
+  "vicious"
+ ],
+ "ago": [],
+ "agree": [],
+ "agreement": [
+  "deal",
+  "contract"
+ ],
+ "agricultural": [
+  "farming"
+ ],
+ "ahead": [
+  "in front"
+ ],
+ "aid": [],
+ "aim": [],
+ "air": [
+  "oxygen"
+ ],
+ "aircraft": [
+  "airplanes",
+  "planes"
+ ],
+ "airline": [],
+ "alarm": [],
+ "album": [
+  "record"
+ ],
+ "alcohol": [
+  "liquor"
+ ],
+ "alive": [],
+ "all": [],
+ "allege": [
+  "claim",
+  "say"
+ ],
+ "allow": [
+  "permitted"
+ ],
+ "ally": [
+  "partner"
+ ],
+ "almost": [
+  "nearly"
+ ],
+ "alone": [],
+ "along": [],
+ "alongside": [
+  "beside",
+  "along"
+ ],
+ "already": [],
+ "alright": [
+  "okay",
+  "ok"
+ ],
+ "also": [],
+ "alter": [
+  "change",
+  "modify",
+  "adjust"
+ ],
+ "alternative": [],
+ "although": [
+  "though",
+  "even though"
+ ],
+ "altogether": [
+  "in total",
+  "in all"
+ ],
+ "always": [],
+ "amaze": [
+  "astonish",
+  "impress",
+  "stun"
+ ],
+ "amendment": [
+  "change"
+ ],
+ "among": [],
+ "amount": [
+  "sums"
+ ],
+ "analysis": [],
+ "analyst": [],
+ "analyze": [
+  "examine",
+  "review"
+ ],
+ "ancient": [
+  "old"
+ ],
+ "and": [],
+ "anger": [],
+ "angle": [
+  "corners"
+ ],
+ "angry": [
+  "mad",
+  "upset"
+ ],
+ "animal": [],
+ "announce": [
+  "declared"
+ ],
+ "announcement": [
+  "news"
+ ],
+ "annual": [
+  "yearly"
+ ],
+ "another": [],
+ "answer": [
+  "reply to",
+  "respond to"
+ ],
+ "anticipate": [
+  "expect",
+  "predict"
+ ],
+ "anxiety": [
+  "nervousness",
+  "worry"
+ ],
+ "anxious": [
+  "nervous",
+  "worried"
+ ],
+ "any": [],
+ "anybody": [
+  "anyone"
+ ],
+ "anymore": [
+  "again"
+ ],
+ "anyone": [
+  "anybody"
+ ],
+ "anything": [],
+ "anyway": [
+  "anyhow"
+ ],
+ "anywhere": [],
+ "apart": [],
+ "apartment": [
+  "flat"
+ ],
+ "apologize": [],
+ "apparent": [],
+ "apparently": [],
+ "appeal": [],
+ "appear": [
+  "seem",
+  "look"
+ ],
+ "appearance": [],
+ "application": [
+  "app",
+  "program"
+ ],
+ "apply": [
+  "put on"
+ ],
+ "appoint": [
+  "named"
+ ],
+ "appointment": [],
+ "appreciate": [],
+ "approach": [
+  "strategy",
+  "method"
+ ],
+ "appropriate": [
+  "suitable",
+  "proper"
+ ],
+ "approval": [
+  "permission",
+  "consent"
+ ],
+ "approve": [
+  "authorized",
+  "allowed"
+ ],
+ "approximately": [
+  "about",
+  "around",
+  "roughly"
+ ],
+ "architecture": [],
+ "area": [
+  "neighborhood"
+ ],
+ "argue": [],
+ "argument": [
+  "fights",
+  "quarrels"
+ ],
+ "arise": [
+  "result",
+  "come"
+ ],
+ "arm": [],
+ "army": [
+  "troops"
+ ],
+ "around": [],
+ "arrange": [],
+ "arrangement": [
+  "plan"
+ ],
+ "arrest": [],
+ "arrival": [],
+ "arrive": [
+  "get there"
+ ],
+ "art": [],
+ "article": [],
+ "artist": [],
+ "as": [],
+ "ashamed": [
+  "embarrassed"
+ ],
+ "aside": [],
+ "ask": [],
+ "assess": [
+  "evaluate",
+  "estimate"
+ ],
+ "assessment": [
+  "evaluation",
+  "test"
+ ],
+ "asset": [],
+ "assign": [],
+ "assist": [
+  "help"
+ ],
+ "assistance": [
+  "help",
+  "aid"
+ ],
+ "assistant": [],
+ "associate": [
+  "connect",
+  "link"
+ ],
+ "association": [
+  "organization",
+  "society"
+ ],
+ "assume": [
+  "suppose",
+  "guess",
+  "think"
+ ],
+ "assumption": [],
+ "assure": [
+  "promise"
+ ],
+ "at": [],
+ "atfirst": [
+  "initially",
+  "at the beginning"
+ ],
+ "athlete": [],
+ "atmosphere": [],
+ "attach": [],
+ "attachment": [],
+ "attack": [
+  "invading"
+ ],
+ "attempt": [],
+ "attend": [],
+ "attendance": [],
+ "attention": [],
+ "attitude": [],
+ "attract": [
+  "caught",
+  "drew"
+ ],
+ "attraction": [],
+ "attractive": [
+  "beautiful",
+  "pretty"
+ ],
+ "attribute": [],
+ "audience": [],
+ "aunt": [],
+ "author": [
+  "writer"
+ ],
+ "automatically": [],
+ "autumn": [
+  "fall"
+ ],
+ "available": [
+  "free"
+ ],
+ "average": [
+  "mean"
+ ],
+ "avoid": [],
+ "award": [
+  "prize"
+ ],
+ "aware": [],
+ "awareness": [],
+ "away": [],
+ "awful": [
+  "terrible",
+  "bad"
+ ],
+ "baby": [],
+ "back": [],
+ "background": [],
+ "bad": [
+  "poor"
+ ],
+ "badly": [],
+ "bag": [
+  "luggage",
+  "baggage"
+ ],
+ "balance": [
+  "harmony"
+ ],
+ "ball": [],
+ "ban": [],
+ "band": [],
+ "bank": [],
+ "bar": [
+  "pub"
+ ],
+ "barely": [
+  "hardly"
+ ],
+ "barrier": [
+  "fence"
+ ],
+ "base": [],
+ "basic": [
+  "fundamental"
+ ],
+ "basically": [
+  "essentially"
+ ],
+ "basis": [
+  "foundation",
+  "base"
+ ],
+ "bath": [],
+ "battle": [
+  "war",
+  "fight"
+ ],
+ "be": [],
+ "beach": [],
+ "bear": [],
+ "beat": [
+  "break"
+ ],
+ "beautiful": [
+  "lovely",
+  "pretty"
+ ],
+ "beauty": [],
+ "because": [],
+ "become": [],
+ "bed": [],
+ "bedroom": [],
+ "beer": [],
+ "before": [],
+ "begin": [
+  "started"
+ ],
+ "behave": [
+  "act"
+ ],
+ "behavior": [
+  "conduct"
+ ],
+ "behind": [],
+ "belief": [],
+ "believe": [
+  "trust"
+ ],
+ "bell": [],
+ "belong": [],
+ "below": [],
+ "belt": [],
+ "bend": [],
+ "beneath": [
+  "under",
+  "below"
+ ],
+ "benefit": [],
+ "beside": [
+  "by",
+  "next to",
+  "near"
+ ],
+ "besides": [
+  "apart from",
+  "in addition to"
+ ],
+ "bet": [],
+ "between": [],
+ "beyond": [],
+ "bias": [
+  "prejudice"
+ ],
+ "bid": [
+  "offer"
+ ],
+ "big": [
+  "large"
+ ],
+ "bike": [
+  "bicycle"
+ ],
+ "bill": [
+  "check"
+ ],
+ "bin": [],
+ "bind": [
+  "tied"
+ ],
+ "biological": [],
+ "bird": [],
+ "birth": [],
+ "bit": [],
+ "bite": [],
+ "black": [],
+ "blame": [],
+ "bless": [],
+ "blind": [],
+ "block": [
+  "banned"
+ ],
+ "blog": [],
+ "blood": [],
+ "bloody": [
+  "bleeding"
+ ],
+ "blow": [],
+ "blue": [],
+ "board": [
+  "get on"
+ ],
+ "boat": [],
+ "body": [],
+ "bomb": [],
+ "bond": [],
+ "bone": [],
+ "book": [],
+ "boom": [
+  "surge",
+  "rise",
+  "increase"
+ ],
+ "boost": [
+  "increase",
+  "raise"
+ ],
+ "boot": [
+  "shoe"
+ ],
+ "border": [],
+ "bore": [],
+ "borrow": [],
+ "boss": [],
+ "both": [],
+ "bother": [
+  "disturb",
+  "trouble"
+ ],
+ "bottle": [],
+ "bottom": [],
+ "boundary": [
+  "line"
+ ],
+ "bowl": [],
+ "box": [],
+ "boy": [],
+ "brain": [],
+ "branch": [],
+ "brand": [],
+ "bread": [],
+ "break": [
+  "rest"
+ ],
+ "breakdown": [],
+ "breakfast": [],
+ "breaktheice": [],
+ "breakup": [
+  "split up",
+  "separate"
+ ],
+ "breast": [],
+ "breath": [],
+ "breathe": [],
+ "breed": [
+  "mating"
+ ],
+ "bridge": [],
+ "brief": [
+  "short"
+ ],
+ "briefly": [],
+ "bright": [
+  "light"
+ ],
+ "brilliant": [
+  "excellent",
+  "outstanding",
+  "amazing"
+ ],
+ "bring": [],
+ "broad": [
+  "large",
+  "big",
+  "wide"
+ ],
+ "broadcast": [],
+ "brother": [],
+ "brown": [],
+ "brush": [],
+ "budget": [],
+ "build": [],
+ "bunch": [
+  "bouquet"
+ ],
+ "burden": [
+  "weight"
+ ],
+ "burn": [],
+ "burst": [],
+ "bury": [],
+ "bus": [],
+ "business": [],
+ "busy": [],
+ "but": [],
+ "button": [],
+ "buy": [
+  "purchase",
+  "get"
+ ],
+ "buyer": [
+  "bidder"
+ ],
+ "by": [],
+ "byaccident": [
+  "by mistake"
+ ],
+ "cable": [],
+ "cake": [],
+ "calculate": [
+  "work out"
+ ],
+ "call": [],
+ "calm": [],
+ "calmdown": [
+  "relax"
+ ],
+ "camera": [],
+ "camp": [],
+ "campaign": [],
+ "can": [],
+ "cancel": [
+  "called off"
+ ],
+ "cancer": [],
+ "candidate": [],
+ "cap": [],
+ "capability": [
+  "skills",
+  "ability"
+ ],
+ "capable": [],
+ "capacity": [],
+ "capital": []
+}

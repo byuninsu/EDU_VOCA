@@ -1,0 +1,400 @@
+soft|부드러운
+row|줄; 열; 노를 젓다
+youth|젊음; 청소년
+lock|잠그다; 자물쇠
+fuel|연료
+expectation|기대; 예상
+employment|고용; 취업
+celebrate|축하하다
+sexual|성적인
+shoulder|어깨
+breath|숨; 호흡
+increasingly|점점 더
+import|수입하다; 수입
+bottle|병
+ourselves|우리 자신
+sheet|종이 한 장; 시트
+engine|엔진
+cast|던지다; 배역을 정하다; 출연진
+notion|생각; 개념
+conservative|보수적인
+journey|여행; 여정
+opposition|반대; 야당
+relief|안도; 완화
+debt|빚; 부채
+honor|명예; 존경하다
+outcome|결과
+blame|탓하다; 책임
+explanation|설명
+arise|발생하다; 생겨나다
+musical|음악의; 뮤지컬
+recover|회복하다; 되찾다
+dad|아빠
+stretch|늘이다; 뻗다
+declare|선언하다
+retire|은퇴하다
+tiny|아주 작은
+careful|조심하는; 주의 깊은
+suitable|적합한
+native|태어난 곳의; 원주민
+fruit|과일
+analyze|분석하다
+witness|목격자; 목격하다
+mail|우편; 우편을 보내다
+terrible|끔찍한
+researcher|연구자
+ordinary|평범한
+selection|선택; 선발
+anywhere|어디든; 어디에라도
+mental|정신의
+participant|참가자
+vision|시력; 비전
+personality|성격; 개성
+specifically|구체적으로; 특히
+fat|지방; 살찐
+entry|입장; 항목
+fellow|동료의; 사람
+chemical|화학의; 화학 물질
+capture|붙잡다; 포착하다
+tip|끝; 조언; 팁
+discount|할인; 할인하다
+peak|정상; 최고점
+chairman|의장; 회장
+proportion|비율; 부분
+ear|귀
+disappear|사라지다
+shout|외치다
+yard|마당; 야드
+constant|끊임없는; 일정한
+significantly|상당히; 유의미하게
+hill|언덕
+considerable|상당한
+instruction|지시; 설명; 교육
+intelligence|지능; 정보
+ideal|이상적인; 이상
+folk|사람들; 민속의
+surely|확실히; 틀림없이
+guard|경비원; 지키다
+cat|고양이
+somewhat|다소
+kiss|입맞춤; 입 맞추다
+presentation|발표; 설명
+joint|공동의; 관절
+compete|경쟁하다
+poll|여론조사; 투표
+weak|약한
+faith|믿음; 신앙
+reduction|감소; 축소
+reserve|예약하다; 비축하다
+complaint|불평; 민원
+bore|지루하게 하다; 구멍을 뚫다
+mission|임무; 사명
+somehow|어떻게든; 어쩐지
+tone|어조; 음색
+neighborhood|동네; 이웃 지역
+passenger|승객
+justice|정의; 사법
+phase|단계; 국면
+thin|얇은; 마른
+rush|서두르다; 돌진
+formal|공식적인; 격식을 차린
+religion|종교
+employer|고용주
+reject|거절하다
+latter|후자의; 뒤쪽의
+plate|접시; 판
+ban|금지하다; 금지
+steal|훔치다
+protest|항의; 시위하다
+index|색인; 지수
+sad|슬픈
+frequently|자주
+circle|원; 원을 그리다
+helpful|도움이 되는
+command|명령; 지휘하다
+attractive|매력적인
+sick|아픈; 메스꺼운
+impression|인상
+unable|~할 수 없는
+joke|농담; 농담하다
+sky|하늘
+column|기둥; 세로 열; 칼럼
+electronic|전자의
+impose|부과하다; 강요하다
+criminal|범죄자; 범죄의
+besides|~외에도; 게다가
+properly|적절히; 제대로
+ancient|고대의
+coast|해안
+ill|아픈; 나쁜
+kick|발로 차다
+closely|면밀히; 밀접하게
+multiple|여러 개의; 배수
+yield|산출하다; 양보하다
+via|~을 경유하여; ~을 통해
+legislation|법률; 입법
+county|군; 행정구역
+unlike|~와 달리; 닮지 않은
+mobile|이동 가능한; 휴대전화의
+assistant|조수; 보조원
+implement|실행하다; 도구
+chart|도표
+attach|붙이다; 첨부하다
+hell|지옥
+everywhere|어디에나
+advise|조언하다
+household|가구; 가정의
+acknowledge|인정하다; 받았음을 알리다
+reward|보상; 보상하다
+east|동쪽
+hat|모자
+academic|학문의; 대학의
+voter|유권자
+meanwhile|그동안; 한편
+furthermore|게다가; 더욱이
+accuse|비난하다; 고발하다
+scientific|과학적인
+wage|임금
+absence|부재; 결석
+construct|건설하다; 구성하다
+remark|말; 언급하다
+medicine|약; 의학
+professor|교수
+rare|드문; 희귀한
+intention|의도
+dozen|열두 개; 다스
+settlement|합의; 정착지
+gap|틈; 격차
+widely|널리
+minimum|최소; 최소의
+northern|북쪽의
+estate|부동산; 재산
+equally|똑같이; 동등하게
+expose|드러내다; 노출시키다
+alive|살아 있는
+shut|닫다; 닫힌
+victory|승리
+resolve|해결하다; 결심하다
+critic|비평가
+variable|변수; 변하는
+enormous|거대한
+sweet|단; 달콤한
+permanent|영구적인
+emotion|감정
+pursue|추구하다; 뒤쫓다
+tall|키가 큰; 높은
+urge|촉구하다; 충동
+enemy|적
+appoint|임명하다; 정하다
+milk|우유; 젖
+talent|재능
+smell|냄새; 냄새 맡다
+prior|이전의
+priority|우선순위
+online|온라인의; 인터넷으로
+phrase|구; 어구
+pilot|조종사; 시범의
+stable|안정된; 마구간
+merely|단지; 그저
+resolution|결의; 해결; 해상도
+communicate|의사소통하다; 전달하다
+injury|부상
+vast|광대한
+exhibition|전시회
+producer|생산자; 제작자
+regional|지역의
+immediate|즉각적인; 바로 가까운
+incident|사건
+childhood|어린 시절
+draft|초안; 초안을 쓰다
+slip|미끄러지다; 작은 종이
+accompany|동행하다; 수반하다
+politician|정치인
+angry|화난
+knock|두드리다; 부딪치다
+seed|씨앗
+salary|급여; 월급
+illustrate|설명하다; 삽화를 넣다
+imply|암시하다; 의미하다
+breakfast|아침 식사
+temporary|일시적인
+liberal|진보적인; 자유주의의
+lake|호수
+qualify|자격을 얻다
+competitive|경쟁적인; 경쟁력 있는
+truly|진정으로
+hi|안녕 (인사)
+yellow|노란색; 노란
+habit|습관
+disk|원반; 디스크
+core|핵심; 중심부
+emotional|감정의; 감정적인
+aircraft|항공기
+self|자아; 자신
+metal|금속
+existence|존재
+bone|뼈
+panel|위원단; 판
+prime|주요한; 최상의
+appointment|약속; 임명
+emphasize|강조하다
+maximum|최대; 최대의
+effectively|효과적으로; 사실상
+elsewhere|다른 곳에
+bother|귀찮게 하다; 신경 쓰다
+initiative|주도권; 새로운 계획
+sharp|날카로운; 급격한
+diet|식단; 식이요법
+motion|움직임; 동의안
+gray|회색; 회색의
+plastic|플라스틱; 성형 가능한
+complicate|복잡하게 하다
+discipline|규율; 훈련; 학문 분야
+disappoint|실망시키다
+boss|상사; 책임자
+assumption|가정; 추정
+freeze|얼다; 얼리다
+extreme|극도의; 극단
+passage|통로; 구절; 통과
+reputation|평판
+forth|앞으로; 밖으로
+negotiation|협상
+mechanism|작동 원리; 장치
+coat|외투; 입히다
+democracy|민주주의
+pocket|주머니
+lucky|운이 좋은
+crash|충돌하다; 추락
+observation|관찰
+meat|고기
+concentration|집중; 농도
+implication|함의; 영향
+deserve|~을 받을 만하다
+unusual|특이한; 드문
+defend|방어하다; 옹호하다
+classic|고전; 전형적인
+king|왕
+interaction|상호작용
+repair|수리하다
+collapse|무너지다; 붕괴
+borrow|빌리다
+fundamental|근본적인
+dish|접시; 요리
+abroad|해외에; 해외로
+soul|영혼
+capable|능력이 있는
+defeat|패배시키다; 패배
+presidential|대통령의
+perfectly|완벽하게
+enhance|향상시키다
+proud|자랑스러워하는
+emergency|비상사태; 응급 상황
+educational|교육의
+distinguish|구별하다
+substantial|상당한; 실질적인
+nearby|가까운; 근처에
+manufacturer|제조업체
+slide|미끄러지다; 미끄럼틀
+valuable|귀중한
+personally|개인적으로; 직접
+breast|가슴; 유방
+cope|대처하다
+approximately|대략
+accommodation|숙소
+highlight|강조하다; 가장 중요한 부분
+reporter|기자
+climate|기후; 분위기
+shirt|셔츠
+exception|예외
+corporation|기업; 법인
+chip|조각; 반도체 칩
+winner|승자
+encounter|마주치다; 만남
+brown|갈색; 갈색의
+breathe|숨 쉬다
+excuse|변명; 용서하다
+partly|부분적으로
+tennis|테니스
+urban|도시의
+confuse|혼란스럽게 하다
+southern|남쪽의
+output|생산량; 출력
+beauty|아름다움
+massive|거대한; 대규모의
+install|설치하다
+calculate|계산하다
+mouse|생쥐; 마우스
+mathematics|수학
+upper|위쪽의
+creation|창조; 창작물
+occupy|차지하다; 점령하다
+outline|개요; 윤곽
+sufficient|충분한
+update|갱신하다; 최신 정보
+luck|행운
+preserve|보존하다
+split|나누다; 갈라지다
+swing|흔들리다; 그네
+illness|질병
+journalist|언론인; 기자
+sudden|갑작스러운
+advertisement|광고
+consistent|일관된
+originally|원래; 처음에
+aside|옆으로; 따로
+comfort|편안함; 위로하다
+secondly|둘째로
+severe|심각한; 엄격한
+gene|유전자
+prospect|전망; 가능성
+snow|눈 (날씨)
+plot|줄거리; 음모; 작은 땅
+neck|목
+criteria|기준들; 판단 기준
+primarily|주로
+integrate|통합하다
+criticism|비판; 비평
+convention|관습; 대회; 협약
+bet|내기; 내기하다
+retain|유지하다; 보유하다
+sequence|순서; 연속
+plain|분명한; 수수한; 평야
+volunteer|자원봉사자; 자원하다
+rural|시골의
+calm|차분한; 진정시키다
+abandon|버리다; 포기하다
+examination|시험; 검사
+silence|침묵; 고요
+rapidly|빠르게
+efficient|효율적인
+revolution|혁명; 회전
+delight|큰 기쁨; 기쁘게 하다
+spell|철자를 쓰다; 주문
+premise|전제
+lean|기대다; 마른
+dramatic|극적인
+differ|다르다
+grateful|감사하는
+protein|단백질
+bike|자전거
+distribute|나누어 주다; 유통하다
+intellectual|지적인; 지식인
+derive|얻다; 유래하다
+crucial|매우 중요한
+unemployment|실업
+wheel|바퀴
+crop|농작물
+minority|소수; 소수 집단
+origin|기원; 출신
+interpretation|해석
+gentleman|신사
+drama|극; 드라마
+landscape|풍경
+educate|교육하다
+toy|장난감
+fault|잘못; 결함
+exhibit|전시하다; 전시품
+minor|사소한; 미성년자
+hunt|사냥하다; 찾다
+storm|폭풍
+thick|두꺼운; 짙은

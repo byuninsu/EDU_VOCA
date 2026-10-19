@@ -1,0 +1,815 @@
+{
+ "sustain": [
+  "support",
+  "handle"
+ ],
+ "swear": [
+  "promise",
+  "vow"
+ ],
+ "sweep": [
+  "cleaned"
+ ],
+ "sweet": [],
+ "swim": [],
+ "swing": [],
+ "switch": [
+  "change"
+ ],
+ "symbol": [
+  "sign",
+  "token"
+ ],
+ "symptom": [
+  "signs"
+ ],
+ "system": [],
+ "table": [],
+ "tackle": [
+  "address",
+  "handle",
+  "deal with",
+  "solve"
+ ],
+ "tail": [],
+ "take": [],
+ "takecareof": [
+  "look after",
+  "care for"
+ ],
+ "takeforgranted": [],
+ "takeoff": [
+  "depart",
+  "leave"
+ ],
+ "takeout": [
+  "throw out",
+  "put out",
+  "empty"
+ ],
+ "tale": [
+  "story"
+ ],
+ "talent": [
+  "gift",
+  "knack"
+ ],
+ "talk": [
+  "speak"
+ ],
+ "tall": [],
+ "tank": [
+  "container"
+ ],
+ "tap": [
+  "faucet"
+ ],
+ "tape": [],
+ "target": [],
+ "task": [
+  "battle",
+  "work"
+ ],
+ "taste": [
+  "tried",
+  "sampled"
+ ],
+ "tax": [],
+ "taxi": [
+  "cab"
+ ],
+ "tea": [],
+ "teach": [],
+ "teacher": [],
+ "team": [
+  "side"
+ ],
+ "tear": [
+  "ripped",
+  "damaged",
+  "broken"
+ ],
+ "technical": [],
+ "technique": [
+  "method",
+  "skill"
+ ],
+ "technology": [],
+ "teenager": [
+  "teens",
+  "young people",
+  "adolescents",
+  "youths"
+ ],
+ "telephone": [
+  "phone"
+ ],
+ "television": [
+  "TV"
+ ],
+ "tell": [
+  "ask"
+ ],
+ "temperature": [
+  "heat"
+ ],
+ "temporary": [],
+ "ten": [],
+ "tend": [
+  "are likely"
+ ],
+ "tendency": [
+  "habit"
+ ],
+ "tender": [
+  "soft",
+  "juicy"
+ ],
+ "tennis": [],
+ "tension": [],
+ "tent": [],
+ "term": [
+  "word",
+  "concept"
+ ],
+ "terrible": [
+  "awful",
+  "horrible",
+  "bad"
+ ],
+ "territory": [
+  "area",
+  "region",
+  "land"
+ ],
+ "terrorist": [],
+ "test": [],
+ "text": [
+  "messaged"
+ ],
+ "than": [],
+ "thank": [],
+ "that": [
+  "it",
+  "this"
+ ],
+ "the": [],
+ "theater": [],
+ "theme": [
+  "idea",
+  "topic",
+  "message"
+ ],
+ "themselves": [],
+ "then": [
+  "again"
+ ],
+ "theoretical": [],
+ "theory": [],
+ "therapy": [
+  "treatment",
+  "counseling"
+ ],
+ "there": [],
+ "therefore": [
+  "so",
+  "thus",
+  "hence"
+ ],
+ "they": [],
+ "thick": [
+  "warm",
+  "heavy"
+ ],
+ "thin": [],
+ "thing": [],
+ "think": [
+  "believe",
+  "feel"
+ ],
+ "thirst": [],
+ "thirty": [],
+ "this": [
+  "the",
+  "that"
+ ],
+ "though": [],
+ "thousand": [],
+ "threat": [
+  "danger",
+  "menace"
+ ],
+ "threaten": [],
+ "three": [],
+ "throat": [],
+ "through": [],
+ "throughout": [
+  "during",
+  "all through"
+ ],
+ "throw": [
+  "tossed",
+  "flung"
+ ],
+ "thus": [
+  "therefore",
+  "so",
+  "hence"
+ ],
+ "ticket": [
+  "fare"
+ ],
+ "tie": [
+  "necktie"
+ ],
+ "tight": [],
+ "till": [
+  "until"
+ ],
+ "time": [],
+ "tiny": [
+  "small"
+ ],
+ "tip": [],
+ "tire": [],
+ "tissue": [
+  "gauze",
+  "cloth"
+ ],
+ "title": [],
+ "to": [],
+ "today": [
+  "now"
+ ],
+ "together": [],
+ "tomorrow": [],
+ "tone": [],
+ "tongue": [],
+ "tonight": [],
+ "too": [],
+ "tool": [],
+ "tooth": [],
+ "top": [
+  "leading",
+  "biggest",
+  "largest",
+  "main"
+ ],
+ "topic": [
+  "theme",
+  "subject"
+ ],
+ "total": [
+  "sum"
+ ],
+ "totally": [
+  "really",
+  "completely",
+  "fully"
+ ],
+ "touch": [],
+ "tough": [
+  "hard",
+  "difficult",
+  "rough"
+ ],
+ "tour": [],
+ "tourism": [],
+ "tourist": [
+  "visitor",
+  "traveler"
+ ],
+ "tournament": [
+  "competition",
+  "contest",
+  "championship"
+ ],
+ "toward": [
+  "to"
+ ],
+ "tower": [],
+ "town": [
+  "city"
+ ],
+ "toy": [],
+ "trace": [
+  "sign",
+  "evidence"
+ ],
+ "track": [
+  "footprints",
+  "trail"
+ ],
+ "trade": [
+  "commerce"
+ ],
+ "tradition": [
+  "custom"
+ ],
+ "traditional": [
+  "classic"
+ ],
+ "traffic": [],
+ "trail": [
+  "path",
+  "track"
+ ],
+ "train": [],
+ "transfer": [
+  "change"
+ ],
+ "transform": [
+  "change",
+  "revolutionize",
+  "alter"
+ ],
+ "transition": [
+  "change",
+  "shift"
+ ],
+ "translate": [],
+ "transport": [
+  "transportation",
+  "transit"
+ ],
+ "transportation": [
+  "transport",
+  "transit"
+ ],
+ "trap": [],
+ "travel": [],
+ "treat": [],
+ "treatment": [
+  "therapy"
+ ],
+ "tree": [],
+ "trend": [
+  "pattern"
+ ],
+ "trial": [],
+ "trick": [],
+ "trigger": [
+  "cause",
+  "provoke",
+  "spark"
+ ],
+ "trip": [
+  "journey"
+ ],
+ "troop": [
+  "unit",
+  "squad"
+ ],
+ "trouble": [],
+ "truck": [
+  "lorry"
+ ],
+ "true": [],
+ "truly": [
+  "really",
+  "very",
+  "deeply",
+  "sincerely"
+ ],
+ "trust": [],
+ "truth": [],
+ "try": [],
+ "tryon": [],
+ "tube": [],
+ "tune": [
+  "melody",
+  "song"
+ ],
+ "turn": [
+  "switch"
+ ],
+ "turndown": [
+  "decline",
+  "reject",
+  "refuse"
+ ],
+ "turnoff": [
+  "switch off",
+  "shut off"
+ ],
+ "turnon": [
+  "switch on"
+ ],
+ "turnup": [
+  "raise",
+  "increase"
+ ],
+ "twelve": [],
+ "twenty": [],
+ "twice": [],
+ "twin": [],
+ "twist": [
+  "turn"
+ ],
+ "two": [],
+ "type": [
+  "group"
+ ],
+ "typical": [
+  "classic",
+  "common"
+ ],
+ "typically": [
+  "usually",
+  "normally",
+  "generally"
+ ],
+ "ugly": [
+  "hideous"
+ ],
+ "ultimately": [
+  "in the end",
+  "finally"
+ ],
+ "unable": [],
+ "uncertainty": [
+  "doubt"
+ ],
+ "uncle": [],
+ "unclear": [
+  "unknown",
+  "uncertain"
+ ],
+ "under": [
+  "beneath",
+  "below"
+ ],
+ "undergo": [
+  "have",
+  "get"
+ ],
+ "underlie": [
+  "underpin"
+ ],
+ "understand": [],
+ "undertake": [
+  "make"
+ ],
+ "undertheweather": [
+  "sick",
+  "ill",
+  "unwell"
+ ],
+ "unemployment": [],
+ "unfortunately": [
+  "sadly"
+ ],
+ "uniform": [],
+ "union": [],
+ "unique": [
+  "special",
+  "distinctive"
+ ],
+ "unit": [],
+ "unite": [
+  "bring together",
+  "connect"
+ ],
+ "universal": [
+  "basic"
+ ],
+ "universe": [
+  "cosmos"
+ ],
+ "university": [
+  "college"
+ ],
+ "unknown": [
+  "unclear",
+  "undetermined"
+ ],
+ "unless": [],
+ "unlike": [],
+ "unlikely": [],
+ "until": [
+  "till"
+ ],
+ "unusual": [
+  "strange",
+  "odd",
+  "weird"
+ ],
+ "up": [],
+ "update": [
+  "upgrade"
+ ],
+ "upon": [
+  "on"
+ ],
+ "upper": [],
+ "upset": [
+  "angry",
+  "mad"
+ ],
+ "urban": [
+  "city"
+ ],
+ "urge": [
+  "beg",
+  "ask"
+ ],
+ "use": [],
+ "useful": [],
+ "user": [],
+ "usual": [
+  "regular",
+  "same"
+ ],
+ "usually": [
+  "normally",
+  "often",
+  "typically"
+ ],
+ "valley": [],
+ "valuable": [
+  "precious",
+  "expensive"
+ ],
+ "value": [
+  "respected",
+  "appreciated"
+ ],
+ "van": [],
+ "variable": [],
+ "variation": [
+  "diversity"
+ ],
+ "variety": [
+  "kinds",
+  "types",
+  "sorts"
+ ],
+ "various": [
+  "many",
+  "different",
+  "diverse"
+ ],
+ "vary": [
+  "changes",
+  "fluctuates"
+ ],
+ "vast": [
+  "huge",
+  "large",
+  "enormous"
+ ],
+ "vegetable": [],
+ "vehicle": [
+  "car"
+ ],
+ "venture": [],
+ "verb": [],
+ "version": [],
+ "versus": [
+  "vs"
+ ],
+ "very": [
+  "really"
+ ],
+ "vessel": [],
+ "veteran": [],
+ "via": [
+  "by",
+  "through"
+ ],
+ "vice": [],
+ "victim": [],
+ "victory": [
+  "win"
+ ],
+ "video": [],
+ "view": [],
+ "village": [
+  "town"
+ ],
+ "violence": [],
+ "violent": [],
+ "virtually": [
+  "almost",
+  "nearly",
+  "practically"
+ ],
+ "virus": [],
+ "visible": [
+  "clear"
+ ],
+ "vision": [
+  "eyesight",
+  "eyes",
+  "sight"
+ ],
+ "visit": [
+  "see"
+ ],
+ "visitor": [
+  "guest"
+ ],
+ "visual": [],
+ "vital": [
+  "essential",
+  "crucial",
+  "important"
+ ],
+ "voice": [],
+ "volume": [
+  "amount",
+  "quantity"
+ ],
+ "voluntary": [
+  "volunteer",
+  "charity"
+ ],
+ "volunteer": [
+  "offered"
+ ],
+ "vote": [],
+ "voter": [],
+ "wage": [
+  "salaries",
+  "pay"
+ ],
+ "wait": [],
+ "wake": [],
+ "wakeup": [
+  "get up"
+ ],
+ "walk": [],
+ "wall": [],
+ "wander": [
+  "roam"
+ ],
+ "want": [],
+ "war": [],
+ "warm": [],
+ "warn": [],
+ "wash": [
+  "do",
+  "clean"
+ ],
+ "waste": [],
+ "watch": [],
+ "water": [],
+ "wave": [],
+ "way": [],
+ "we": [],
+ "weak": [],
+ "weakness": [
+  "flaw",
+  "defect"
+ ],
+ "wealth": [
+  "riches"
+ ],
+ "wealthy": [
+  "rich"
+ ],
+ "weapon": [],
+ "wear": [],
+ "weather": [],
+ "web": [],
+ "website": [
+  "site"
+ ],
+ "wed": [
+  "marry"
+ ],
+ "week": [],
+ "weekend": [],
+ "weekly": [],
+ "weigh": [],
+ "weight": [],
+ "weird": [
+  "strange",
+  "odd"
+ ],
+ "welcome": [],
+ "welfare": [],
+ "well": [],
+ "west": [],
+ "western": [],
+ "wet": [],
+ "what": [],
+ "whatever": [],
+ "wheel": [],
+ "when": [
+  "once"
+ ],
+ "whenever": [
+  "every time",
+  "when"
+ ],
+ "where": [],
+ "whereas": [
+  "while"
+ ],
+ "wherever": [],
+ "whether": [
+  "if"
+ ],
+ "which": [
+  "what"
+ ],
+ "while": [],
+ "whilst": [
+  "while"
+ ],
+ "whisper": [],
+ "white": [],
+ "who": [
+  "that"
+ ],
+ "whole": [
+  "entire"
+ ],
+ "why": [],
+ "wide": [],
+ "widely": [],
+ "wife": [],
+ "wild": [],
+ "will": [],
+ "win": [],
+ "wind": [],
+ "window": [],
+ "wine": [],
+ "wing": [],
+ "winner": [],
+ "winter": [],
+ "wipe": [
+  "clean"
+ ],
+ "wire": [
+  "cable"
+ ],
+ "wise": [],
+ "wish": [],
+ "with": [
+  "on"
+ ],
+ "withdraw": [
+  "take out"
+ ],
+ "within": [
+  "in"
+ ],
+ "without": [],
+ "witness": [],
+ "woman": [],
+ "wonder": [],
+ "wonderful": [
+  "great",
+  "good"
+ ],
+ "wood": [],
+ "wooden": [],
+ "word": [],
+ "work": [],
+ "worker": [],
+ "workout": [],
+ "world": [],
+ "worry": [],
+ "worth": [],
+ "would": [],
+ "wound": [
+  "injury",
+  "cut"
+ ],
+ "wrap": [
+  "covered",
+  "bandaged"
+ ],
+ "write": [
+  "jot",
+  "note"
+ ],
+ "writer": [
+  "authors"
+ ],
+ "wrong": [],
+ "yard": [],
+ "yeah": [
+  "yes",
+  "sure"
+ ],
+ "year": [],
+ "yellow": [],
+ "yes": [],
+ "yesterday": [],
+ "yet": [],
+ "yield": [
+  "produce",
+  "give"
+ ],
+ "you": [],
+ "young": [],
+ "yourself": [],
+ "youth": [],
+ "zone": [
+  "area",
+  "district"
+ ]
+}

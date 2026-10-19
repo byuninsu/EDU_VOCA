@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974271557264",
+    "project_id": "edu-voca",
+    "storage_bucket": "edu-voca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974271557264:android:ae38d3215d39e2b3bc3215",
+        "android_client_info": {
+          "package_name": "com.dailyenglish.edu_voca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974271557264-qaup91ipqhc2ha4ma8bg64vpnn5jf6k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dailyenglish.edu_voca",
+            "certificate_hash": "1091116eaf434d66ebf5968abc2ea0db099c06d5"
+          }
+        },
+        {
+          "client_id": "974271557264-gapis55c31jn3gd2it28m28bsgolc37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWKgiSaVVLaFUAAM33VNCHyulYFbIlytc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974271557264-gapis55c31jn3gd2it28m28bsgolc37a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

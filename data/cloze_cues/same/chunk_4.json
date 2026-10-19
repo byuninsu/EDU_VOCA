@@ -1,0 +1,805 @@
+{
+ "leap": [
+  "jump",
+  "hop"
+ ],
+ "learn": [
+  "study"
+ ],
+ "least": [],
+ "leather": [
+  "hide"
+ ],
+ "leave": [
+  "go",
+  "depart"
+ ],
+ "lecture": [
+  "talk",
+  "presentation"
+ ],
+ "left": [
+  "went"
+ ],
+ "leg": [],
+ "legal": [],
+ "legislation": [
+  "law"
+ ],
+ "lend": [
+  "loan",
+  "give"
+ ],
+ "length": [],
+ "less": [],
+ "lesson": [],
+ "let": [],
+ "letter": [],
+ "level": [],
+ "liability": [
+  "responsibility"
+ ],
+ "liberal": [
+  "progressive"
+ ],
+ "library": [],
+ "license": [
+  "driver's license"
+ ],
+ "lie": [],
+ "life": [],
+ "lift": [
+  "ride"
+ ],
+ "light": [],
+ "like": [
+  "want"
+ ],
+ "likely": [
+  "apt",
+  "liable",
+  "bound"
+ ],
+ "limit": [],
+ "limitation": [
+  "flaw",
+  "weakness",
+  "limit"
+ ],
+ "line": [],
+ "link": [],
+ "lip": [],
+ "liquid": [
+  "fluid"
+ ],
+ "list": [],
+ "listen": [],
+ "listener": [],
+ "literally": [
+  "actually"
+ ],
+ "literary": [],
+ "literature": [],
+ "little": [
+  "bit"
+ ],
+ "live": [],
+ "load": [],
+ "loan": [
+  "lend"
+ ],
+ "local": [],
+ "locate": [
+  "situated"
+ ],
+ "location": [
+  "position",
+  "site"
+ ],
+ "lock": [],
+ "log": [
+  "record"
+ ],
+ "logic": [
+  "sense"
+ ],
+ "long": [],
+ "look": [],
+ "lookafter": [
+  "take care of",
+  "watch",
+  "care for"
+ ],
+ "lookfor": [
+  "find",
+  "search for"
+ ],
+ "lookforwardto": [],
+ "loose": [
+  "big"
+ ],
+ "lose": [],
+ "loss": [],
+ "lot": [
+  "great deal"
+ ],
+ "loud": [
+  "loudly"
+ ],
+ "love": [],
+ "lovely": [
+  "nice",
+  "great",
+  "wonderful"
+ ],
+ "lover": [],
+ "low": [],
+ "luck": [],
+ "lucky": [
+  "fortunate"
+ ],
+ "lunch": [],
+ "luxury": [
+  "luxurious",
+  "deluxe"
+ ],
+ "machine": [],
+ "mad": [
+  "angry",
+  "upset"
+ ],
+ "magazine": [],
+ "magic": [],
+ "mail": [
+  "send",
+  "post",
+  "ship"
+ ],
+ "main": [
+  "primary",
+  "real",
+  "chief"
+ ],
+ "mainly": [
+  "mostly",
+  "largely",
+  "primarily"
+ ],
+ "maintain": [],
+ "maintenance": [
+  "upkeep"
+ ],
+ "major": [],
+ "majority": [],
+ "make": [],
+ "maker": [
+  "manufacturer"
+ ],
+ "makesure": [
+  "ensure",
+  "check"
+ ],
+ "male": [],
+ "man": [
+  "guy"
+ ],
+ "manage": [],
+ "management": [],
+ "manager": [
+  "boss"
+ ],
+ "manner": [
+  "way"
+ ],
+ "manufacture": [
+  "make",
+  "produce",
+  "build"
+ ],
+ "manufacturer": [
+  "maker",
+  "producer",
+  "company"
+ ],
+ "many": [],
+ "map": [],
+ "march": [
+  "led"
+ ],
+ "margin": [],
+ "mark": [
+  "target"
+ ],
+ "market": [],
+ "marriage": [],
+ "marry": [],
+ "mass": [
+  "weight"
+ ],
+ "massive": [
+  "huge",
+  "enormous",
+  "great",
+  "widespread"
+ ],
+ "master": [
+  "owner"
+ ],
+ "match": [
+  "go with"
+ ],
+ "mate": [
+  "partner",
+  "buddy",
+  "friend"
+ ],
+ "material": [],
+ "mathematics": [
+  "math",
+  "maths"
+ ],
+ "matter": [
+  "question"
+ ],
+ "mature": [
+  "grown-up"
+ ],
+ "maximum": [
+  "top",
+  "max"
+ ],
+ "may": [
+  "might"
+ ],
+ "maybe": [
+  "perhaps"
+ ],
+ "mayor": [],
+ "meal": [],
+ "mean": [],
+ "meanwhile": [
+  "in the meantime",
+  "meantime"
+ ],
+ "measure": [],
+ "measurement": [],
+ "meat": [],
+ "mechanism": [
+  "device"
+ ],
+ "medical": [],
+ "medicine": [],
+ "medium": [],
+ "meet": [],
+ "member": [],
+ "membership": [],
+ "memory": [],
+ "mental": [],
+ "mention": [
+  "say",
+  "tell"
+ ],
+ "menu": [],
+ "mere": [
+  "very"
+ ],
+ "merely": [
+  "just",
+  "only",
+  "simply"
+ ],
+ "mess": [],
+ "message": [],
+ "metal": [],
+ "meter": [
+  "metre"
+ ],
+ "method": [
+  "approach",
+  "technique",
+  "way"
+ ],
+ "middle": [],
+ "might": [
+  "may"
+ ],
+ "mile": [],
+ "military": [
+  "army"
+ ],
+ "milk": [],
+ "million": [],
+ "mind": [],
+ "mine": [],
+ "minimum": [],
+ "minister": [],
+ "minor": [
+  "small",
+  "slight"
+ ],
+ "minority": [
+  "few"
+ ],
+ "minute": [],
+ "mirror": [],
+ "miss": [],
+ "mission": [
+  "task",
+  "job"
+ ],
+ "mistake": [
+  "errors"
+ ],
+ "mix": [
+  "combines"
+ ],
+ "mixture": [
+  "mix"
+ ],
+ "mobile": [
+  "cell"
+ ],
+ "mode": [],
+ "model": [],
+ "moderate": [],
+ "modern": [],
+ "modify": [
+  "change",
+  "alter",
+  "adjust"
+ ],
+ "module": [
+  "unit"
+ ],
+ "mom": [
+  "mother",
+  "mum"
+ ],
+ "moment": [
+  "minute",
+  "second"
+ ],
+ "money": [
+  "cash"
+ ],
+ "monitor": [
+  "check",
+  "track",
+  "watch"
+ ],
+ "month": [],
+ "monthly": [],
+ "mood": [],
+ "moon": [],
+ "moral": [
+  "ethical"
+ ],
+ "more": [],
+ "moreover": [
+  "furthermore",
+  "besides",
+  "in addition",
+  "also"
+ ],
+ "morning": [],
+ "mortgage": [],
+ "most": [],
+ "mostly": [
+  "mainly",
+  "largely",
+  "primarily"
+ ],
+ "mother": [
+  "mom",
+  "mum"
+ ],
+ "motion": [
+  "movement"
+ ],
+ "motivate": [
+  "driven"
+ ],
+ "motivation": [
+  "motive",
+  "reason"
+ ],
+ "motor": [
+  "engine"
+ ],
+ "mount": [
+  "piling up",
+  "growing",
+  "increasing"
+ ],
+ "mountain": [],
+ "mouse": [],
+ "mouth": [],
+ "move": [],
+ "movement": [],
+ "movie": [
+  "film"
+ ],
+ "much": [],
+ "multiple": [],
+ "murder": [
+  "homicide"
+ ],
+ "muscle": [],
+ "museum": [],
+ "music": [],
+ "musical": [],
+ "musician": [],
+ "must": [],
+ "mutual": [],
+ "myself": [],
+ "mystery": [],
+ "name": [],
+ "narrative": [
+  "story"
+ ],
+ "narrow": [],
+ "nation": [
+  "country"
+ ],
+ "national": [
+  "public"
+ ],
+ "native": [],
+ "natural": [],
+ "naturally": [],
+ "nature": [],
+ "near": [],
+ "nearby": [
+  "near here",
+  "around here",
+  "close by"
+ ],
+ "nearly": [
+  "almost"
+ ],
+ "necessarily": [],
+ "necessary": [
+  "needed",
+  "required"
+ ],
+ "neck": [],
+ "need": [
+  "want"
+ ],
+ "negative": [],
+ "neglect": [
+  "ignore",
+  "overlook"
+ ],
+ "negotiate": [],
+ "negotiation": [
+  "negotiating"
+ ],
+ "neighbor": [
+  "neighbour"
+ ],
+ "neighborhood": [
+  "neighbourhood",
+  "area"
+ ],
+ "neither": [],
+ "nerve": [],
+ "nervous": [
+  "anxious"
+ ],
+ "net": [],
+ "network": [
+  "system"
+ ],
+ "never": [],
+ "nevertheless": [
+  "nonetheless",
+  "still",
+  "even so",
+  "however"
+ ],
+ "new": [],
+ "newly": [
+  "recently"
+ ],
+ "news": [],
+ "newspaper": [
+  "paper"
+ ],
+ "next": [],
+ "nice": [
+  "pleased",
+  "good",
+  "glad"
+ ],
+ "night": [],
+ "nine": [],
+ "nineteen": [],
+ "ninety": [],
+ "no": [],
+ "nobody": [
+  "no one"
+ ],
+ "noise": [],
+ "none": [],
+ "nor": [],
+ "normal": [
+  "ordinary",
+  "typical"
+ ],
+ "normally": [
+  "usually",
+  "generally",
+  "typically"
+ ],
+ "north": [],
+ "northern": [],
+ "nose": [],
+ "not": [],
+ "note": [
+  "message"
+ ],
+ "nothing": [],
+ "notice": [
+  "saw",
+  "spotted"
+ ],
+ "notion": [
+  "idea",
+  "concept"
+ ],
+ "noun": [],
+ "novel": [
+  "book"
+ ],
+ "now": [],
+ "nowadays": [
+  "these days",
+  "today"
+ ],
+ "nowhere": [],
+ "nuclear": [
+  "atomic"
+ ],
+ "number": [],
+ "numerous": [
+  "many"
+ ],
+ "nurse": [],
+ "object": [
+  "goal",
+  "aim",
+  "objective"
+ ],
+ "objective": [
+  "goal",
+  "aim",
+  "target"
+ ],
+ "obligation": [
+  "duty",
+  "responsibility"
+ ],
+ "observation": [],
+ "observe": [
+  "watch"
+ ],
+ "obvious": [
+  "clear",
+  "evident"
+ ],
+ "obviously": [
+  "clearly"
+ ],
+ "occasion": [
+  "event"
+ ],
+ "occasionally": [
+  "sometimes"
+ ],
+ "occupy": [
+  "take up",
+  "fill"
+ ],
+ "occur": [
+  "happen",
+  "start",
+  "appear"
+ ],
+ "ocean": [
+  "sea"
+ ],
+ "odd": [],
+ "of": [
+  "about"
+ ],
+ "off": [],
+ "offense": [
+  "offence",
+  "crime"
+ ],
+ "offer": [],
+ "office": [],
+ "officer": [],
+ "official": [],
+ "often": [
+  "frequently"
+ ],
+ "oil": [],
+ "okay": [
+  "ok",
+  "fine",
+  "all right"
+ ],
+ "old": [],
+ "on": [],
+ "once": [],
+ "onceinabluemoon": [
+  "rarely",
+  "seldom",
+  "occasionally"
+ ],
+ "one": [
+  "person"
+ ],
+ "online": [],
+ "only": [
+  "just"
+ ],
+ "onpurpose": [
+  "intentionally",
+  "deliberately"
+ ],
+ "ontheotherhand": [
+  "however"
+ ],
+ "onto": [
+  "on"
+ ],
+ "open": [],
+ "opera": [],
+ "operate": [
+  "runs"
+ ],
+ "operation": [
+  "surgery"
+ ],
+ "operator": [],
+ "opinion": [
+  "view",
+  "thoughts"
+ ],
+ "opponent": [
+  "rival"
+ ],
+ "opportunity": [
+  "chances"
+ ],
+ "oppose": [
+  "object to"
+ ],
+ "opposite": [],
+ "opposition": [],
+ "option": [
+  "choices"
+ ],
+ "or": [],
+ "orange": [],
+ "order": [],
+ "ordinary": [
+  "normal",
+  "regular",
+  "common"
+ ],
+ "organic": [],
+ "organization": [
+  "company",
+  "organisation"
+ ],
+ "organize": [
+  "hold",
+  "arrange",
+  "host"
+ ],
+ "origin": [
+  "source"
+ ],
+ "original": [],
+ "originally": [],
+ "other": [],
+ "otherwise": [],
+ "ought": [],
+ "ourselves": [],
+ "out": [],
+ "outcome": [
+  "result"
+ ],
+ "outline": [
+  "overview",
+  "summary"
+ ],
+ "output": [
+  "result",
+  "results"
+ ],
+ "outside": [
+  "out"
+ ],
+ "over": [
+  "done",
+  "finished"
+ ],
+ "overall": [
+  "total"
+ ],
+ "overcome": [],
+ "overseas": [
+  "abroad"
+ ],
+ "overwhelmed": [],
+ "owe": [],
+ "own": [
+  "have"
+ ],
+ "owner": [],
+ "ownership": [],
+ "pace": [],
+ "pack": [
+  "crowded",
+  "busy",
+  "full"
+ ],
+ "package": [
+  "parcel",
+  "box"
+ ],
+ "page": [],
+ "pain": [],
+ "paint": [],
+ "pair": [],
+ "pale": [
+  "light"
+ ],
+ "panel": [],
+ "panic": [
+  "worry"
+ ],
+ "paper": [
+  "newspaper"
+ ],
+ "paragraph": [],
+ "parallel": [],
+ "parent": [],
+ "park": [],
+ "part": [],
+ "participant": [
+  "respondents"
+ ],
+ "participate": [
+  "take part"
+ ],
+ "participation": [
+  "involvement"
+ ],
+ "particular": [
+  "specific",
+  "special"
+ ],
+ "particularly": [
+  "especially",
+  "specially"
+ ],
+ "partly": [
+  "partially"
+ ],
+ "partner": [],
+ "partnership": [
+  "relationship"
+ ],
+ "party": [],
+ "pass": [],
+ "passage": [
+  "text"
+ ],
+ "passenger": []
+}
