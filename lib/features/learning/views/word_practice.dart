@@ -11,6 +11,7 @@ import 'package:edu_voca/shared/widgets/compact_keyboard.dart';
 import 'package:edu_voca/shared/widgets/xp_bar.dart';
 import 'package:edu_voca/domain/models/learning_progress.dart';
 import 'package:edu_voca/domain/services/word_cues.dart';
+import 'package:edu_voca/shared/widgets/dialogue_turn.dart';
 
 class WordPractice extends StatefulWidget {
   final LearningViewModel state;
@@ -74,7 +75,7 @@ class _WordPracticeState extends State<WordPractice>
   /// Synthesizes the current sentence while the learner is still answering.
   void _prepareSpeech() {
     if (!finished && index < exercises.length) {
-      speech.prepare(exercises[index].word.complete);
+      speech.prepare(vm.completeDialogue);
     }
   }
 
@@ -186,8 +187,7 @@ class _WordPracticeState extends State<WordPractice>
     if (_answerDialogOpen || !mounted) return;
     _answerDialogOpen = true;
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (mounted && _answerDialogOpen)
-        speech.speak(exercises[index].word.complete);
+      if (mounted && _answerDialogOpen) speech.speak(vm.completeDialogue);
     });
     bool? advance;
     try {
@@ -241,7 +241,8 @@ class _WordPracticeState extends State<WordPractice>
   Future<void> showLevelUp() {
     final level = widget.state.level;
     final String message;
-    if (LearningProgress.starsOf(level) != LearningProgress.starsOf(level - 1)) {
+    if (LearningProgress.starsOf(level) !=
+        LearningProgress.starsOf(level - 1)) {
       message = '이제 ${LearningProgress.cefrOf(level)} 단어를 중심으로 학습해요.\n'
           '앞으로 더 어려운 단어에 도전해 봐요!';
     } else if (level >= LearningProgress.maxLevel) {
@@ -297,9 +298,7 @@ class _WordPracticeState extends State<WordPractice>
     } else if (exercise.word.difficultyStars != state.targetStars) {
       text = '현재 난이도(${state.targetCefr}) 단어가 아니라\n경험치는 그대로예요.';
     } else {
-      text = state.xpToNext == 0
-          ? '최고 레벨이에요.'
-          : '이 레벨에서 이미 경험치를 받은 단어예요.';
+      text = state.xpToNext == 0 ? '최고 레벨이에요.' : '이 레벨에서 이미 경험치를 받은 단어예요.';
     }
     return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
       Text(text,
@@ -366,21 +365,30 @@ class _WordPracticeState extends State<WordPractice>
                     size: 17)),
           ]),
           const SizedBox(height: 12),
-          Text.rich(
-              key: const ValueKey('answer-sentence'),
-              TextSpan(children: [
-                for (var i = 0; i < parts.length; i++) ...[
-                  TextSpan(text: parts[i]),
-                  if (i < parts.length - 1)
-                    TextSpan(
-                        text: word.answer,
-                        style: const TextStyle(
-                            color: teal,
-                            backgroundColor: mint,
-                            fontWeight: FontWeight.w800)),
-                ],
-              ]),
-              style: const TextStyle(fontSize: 22, height: 1.5, color: ink)),
+          _partnerTurn(),
+          const SizedBox(height: 10),
+          DialogueTurn(
+              speaker: vm.cast.learner,
+              reply: true,
+              english: Text.rich(
+                  key: const ValueKey('answer-sentence'),
+                  TextSpan(children: [
+                    for (var i = 0; i < parts.length; i++) ...[
+                      TextSpan(text: parts[i]),
+                      if (i < parts.length - 1)
+                        TextSpan(
+                            text: word.answer,
+                            style: const TextStyle(
+                                color: teal,
+                                backgroundColor: mint,
+                                fontWeight: FontWeight.w800)),
+                    ],
+                  ]),
+                  style:
+                      const TextStyle(fontSize: 20, height: 1.5, color: ink)),
+              translation: Text(word.translation,
+                  style:
+                      const TextStyle(fontSize: 15, height: 1.4, color: ink))),
           const SizedBox(height: 8),
           AnimatedBuilder(
               animation: speech,
@@ -389,13 +397,14 @@ class _WordPracticeState extends State<WordPractice>
                       children: [
                         Wrap(spacing: 4, children: [
                           TextButton.icon(
-                              onPressed: () => speech.speak(word.complete),
+                              onPressed: () =>
+                                  speech.speak(vm.completeDialogue),
                               icon:
                                   const Icon(Icons.volume_up_rounded, size: 20),
-                              label: const Text('문장 듣기')),
+                              label: const Text('대화 듣기')),
                           TextButton.icon(
                               onPressed: () =>
-                                  speech.speak(word.complete, slow: true),
+                                  speech.speak(vm.completeDialogue, slow: true),
                               icon: const Icon(Icons.slow_motion_video_rounded,
                                   size: 20),
                               label: const Text('천천히 듣기')),
@@ -480,47 +489,56 @@ class _WordPracticeState extends State<WordPractice>
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                     WordIndicators(word: word),
+                    const SizedBox(height: 10),
+                    Text(vm.dialogue.situation,
+                        key: const ValueKey('dialogue-situation'),
+                        style: const TextStyle(
+                            color: teal,
+                            fontSize: 13,
+                            fontWeight: FontWeight.w700)),
                     const SizedBox(height: 8),
-                    ClozeSentence(
-                        key: ValueKey('${word.id}-$index'),
-                        sentence: word.sentence,
-                        answer: word.answer,
-                        controller: input,
-                        readOnly: correct != null,
-                        onChanged: _onInput,
-                        onSubmitted: submit,
-                        fitLines: 2,
-                        keys: keys),
+                    _partnerTurn(),
+                    const SizedBox(height: 10),
+                    DialogueTurn(
+                        speaker: vm.cast.learner,
+                        reply: true,
+                        english: ClozeSentence(
+                            key: ValueKey('${word.id}-$index'),
+                            sentence: word.sentence,
+                            answer: word.answer,
+                            controller: input,
+                            readOnly: correct != null,
+                            onChanged: _onInput,
+                            onSubmitted: submit,
+                            fitLines: 1,
+                            maxFontSize: 18,
+                            keys: keys),
+                        translation: Text.rich(
+                            TextSpan(children: [
+                              if (focusStart < 0)
+                                TextSpan(text: word.translation)
+                              else ...[
+                                TextSpan(
+                                    text: word.translation
+                                        .substring(0, focusStart)),
+                                TextSpan(
+                                    text: focus,
+                                    style: const TextStyle(
+                                        fontWeight: FontWeight.w800,
+                                        color: teal,
+                                        backgroundColor: mint)),
+                                TextSpan(
+                                    text: word.translation
+                                        .substring(focusStart + focus!.length)),
+                              ],
+                            ]),
+                            key: const ValueKey('question-translation'),
+                            style: const TextStyle(
+                                fontSize: 15, height: 1.4, color: ink))),
                     if (correct == null) ...[
                       const SizedBox(height: 10),
                       _guide(),
                     ],
-                    const SizedBox(height: 12),
-                    const Divider(height: 1, color: Color(0xFFE9EEE7)),
-                    const SizedBox(height: 10),
-                    const Label('문장 전체 해석'),
-                    const SizedBox(height: 4),
-                    Text.rich(
-                        TextSpan(children: [
-                          if (focusStart < 0)
-                            TextSpan(text: word.translation)
-                          else ...[
-                            TextSpan(
-                                text:
-                                    word.translation.substring(0, focusStart)),
-                            TextSpan(
-                                text: focus,
-                                style: const TextStyle(
-                                    fontWeight: FontWeight.w800,
-                                    color: teal,
-                                    backgroundColor: mint)),
-                            TextSpan(
-                                text: word.translation
-                                    .substring(focusStart + focus!.length)),
-                          ],
-                        ]),
-                        key: const ValueKey('question-translation'),
-                        style: const TextStyle(fontSize: 17, color: ink)),
                     if (focus == null && word.meaning != null) ...[
                       const SizedBox(height: 8),
                       Text('학습할 뜻: ${word.meaning}',
@@ -556,4 +574,13 @@ class _WordPracticeState extends State<WordPractice>
             onKey: keys.type, onBackspace: keys.backspace, onDone: submit),
     ]));
   }
+
+  Widget _partnerTurn() => DialogueTurn(
+      speaker: vm.cast.partner,
+      english: Text(vm.dialogue.english,
+          key: const ValueKey('dialogue-partner-english'),
+          style: const TextStyle(fontSize: 18, height: 1.4, color: ink)),
+      translation: Text(vm.dialogue.korean,
+          key: const ValueKey('dialogue-partner-translation'),
+          style: const TextStyle(fontSize: 15, height: 1.4, color: muted)));
 }

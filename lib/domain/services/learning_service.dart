@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:edu_voca/domain/models/word_item.dart';
 import 'package:edu_voca/domain/models/scenario.dart';
 import 'package:edu_voca/domain/models/exercise.dart';
@@ -8,7 +10,9 @@ import 'package:edu_voca/domain/repositories/vocabulary_repository.dart';
 class LearningService {
   final LearningProgress progress;
   final VocabularyRepository vocabulary;
-  LearningService(this.progress, this.vocabulary);
+  final Random _random;
+  LearningService(this.progress, this.vocabulary, {Random? random})
+      : _random = random ?? Random();
   void refreshDay() {
     final today = LearningProgress.dateKey(DateTime.now());
     if (progress.day == today) return;
@@ -49,6 +53,12 @@ class LearningService {
     final recency = {
       for (final (index, id) in progress.seen.indexed) id: index
     };
+    // Give unseen words a fresh random priority on every session, including
+    // when the previous session was closed before answering a question.
+    final randomOrder = vocabulary.words.toList()..shuffle(_random);
+    final randomRank = {
+      for (final (index, word) in randomOrder.indexed) word.id: index
+    };
     final candidates = vocabulary.words
         .where((w) => !selected.any((e) => e.word.id == w.id))
         .toList()
@@ -59,11 +69,10 @@ class LearningService {
         if (progress.seen.contains(a.id) && progress.seen.contains(b.id)) {
           return recency[a.id]!.compareTo(recency[b.id]!);
         }
-        final order = a.studyOrder.compareTo(b.studyOrder);
-        return order != 0 ? order : a.id.compareTo(b.id);
+        return randomRank[a.id]!.compareTo(randomRank[b.id]!);
       });
     // Grammar words are met mostly inside phrases; single words favor verbs,
-    // adjectives and adverbs. Frequency order is kept within each group.
+    // adjectives and adverbs. Unseen words are randomized within each group.
     final functionLimit = remaining ~/ 10;
     final nounLimit = (remaining * .3).ceil();
     bool fits(WordItem w) {
@@ -119,7 +128,8 @@ class LearningService {
         remaining - selected.length);
     takeWords(candidates, remaining - selected.length);
     takeWords(candidates, remaining - selected.length, any: true);
-    return spread(selected);
+    final fresh = selected.where((e) => !e.review).toList()..shuffle(_random);
+    return spread([...fresh, ...selected.where((e) => e.review)]);
   }
 
   /// Spreads reviews evenly between new questions, starting with a new one

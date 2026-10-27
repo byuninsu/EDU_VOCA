@@ -18,6 +18,7 @@ class ClozeSentence extends StatefulWidget {
 
   /// Shrinks the font (down to 14) so the sentence fits in this many lines.
   final int? fitLines;
+  final double maxFontSize;
 
   /// When set, the in-app keyboard types here and the system one stays hidden.
   final ClozeKeys? keys;
@@ -31,6 +32,7 @@ class ClozeSentence extends StatefulWidget {
       this.onChanged,
       this.onSubmitted,
       this.fitLines,
+      this.maxFontSize = 26,
       this.keys});
   @override
   State<ClozeSentence> createState() => _ClozeSentenceState();
@@ -214,9 +216,9 @@ class _ClozeSentenceState extends State<ClozeSentence> {
     if (lines == null) return 29;
     final base = DefaultTextStyle.of(context).style;
     final direction = Directionality.of(context);
-    for (var size = 26.0; size > 14; size--) {
-      final style = base.merge(TextStyle(
-          fontSize: size, fontWeight: FontWeight.w800, height: 1.35));
+    for (var size = widget.maxFontSize; size > 14; size--) {
+      final style = base.merge(
+          TextStyle(fontSize: size, fontWeight: FontWeight.w800, height: 1.35));
       double measure(String text) {
         final painter = TextPainter(
             text: TextSpan(text: text, style: style),

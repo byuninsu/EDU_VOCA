@@ -4,6 +4,9 @@ import 'package:edu_voca/domain/models/learning_progress.dart';
 import 'learning_view_model.dart';
 import 'package:edu_voca/domain/models/word_item.dart';
 import 'package:edu_voca/domain/services/cloze_judge.dart';
+import 'package:edu_voca/data/local/dialogue_contexts.dart';
+import 'package:edu_voca/domain/models/dialogue_context.dart';
+import 'package:edu_voca/domain/models/dialogue_cast.dart';
 
 /// Colour family of the guidance line under the sentence.
 enum GuideTone { idle, hint, close, wrong }
@@ -42,6 +45,11 @@ class WordPracticeViewModel extends ChangeNotifier {
     }
   }
   List<Exercise> get exercises => _exercises;
+  DialogueCast _cast = DialogueCast.random();
+  DialogueCast get cast => _cast;
+  DialogueContext get dialogue => dialogueContextFor(_exercises[index].word);
+  String get completeDialogue =>
+      '${dialogue.english}\n${_exercises[index].word.complete}';
 
   void _guide(String text, GuideTone value) {
     guide = text;
@@ -138,6 +146,7 @@ class WordPracticeViewModel extends ChangeNotifier {
       finished = true;
     } else {
       index++;
+      _cast = DialogueCast.random(previous: _cast);
       _reset();
     }
     notifyListeners();
@@ -149,10 +158,10 @@ class WordPracticeViewModel extends ChangeNotifier {
     _exercises = List.unmodifiable(session);
     countsToday = true;
     index = 0;
+    _cast = DialogueCast.random(previous: _cast);
     hits = 0;
     finished = false;
     _reset();
     notifyListeners();
   }
-
 }

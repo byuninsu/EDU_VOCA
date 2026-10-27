@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:edu_voca/domain/models/learning_progress.dart';
 import 'package:edu_voca/domain/models/review_entry.dart';
@@ -5,6 +7,30 @@ import 'package:edu_voca/domain/services/learning_service.dart';
 import 'support.dart';
 
 void main() {
+  test('Reopening practice varies words while preserving level and progress',
+      () {
+    for (final level in [1, 5, 9, 13, 17]) {
+      final progress = LearningProgress()..level = level;
+      final service = LearningService(progress, vocabulary, random: Random(42));
+      final sessions = List.generate(5, (_) => service.makeSession());
+      final target = LearningProgress.starsOf(level);
+      for (final session in sessions) {
+        expect(session, hasLength(10));
+        expect(session.map((e) => e.word.id).toSet(), hasLength(10));
+        expect(session.where((e) => e.word.difficultyStars == target).length,
+            greaterThanOrEqualTo(7));
+        expect(session.where((e) => e.word.isPhrase), hasLength(2));
+      }
+      expect(
+          sessions.map((s) => s.first.word.id).toSet().length, greaterThan(1));
+      // Selection must vary too, rather than only shuffling the same ten words.
+      expect(sessions.expand((s) => s.map((e) => e.word.id)).toSet().length,
+          greaterThan(10));
+      expect(progress.seen, isEmpty);
+      expect(progress.completed, 0);
+      expect(progress.level, level);
+    }
+  });
   test('Experience counts distinct correct words, not repeated answers', () {
     final state = createLearning();
     final a1 = playableWords.where((w) => w.difficultyStars == 1).toList();
@@ -21,8 +47,30 @@ void main() {
   });
 
   test('Bars grow with level: quick at the bottom, slow at the top', () {
-    expect([for (var l = 1; l <= 20; l++) LearningProgress.xpNeeded(l)],
-        [5, 6, 7, 8, 8, 9, 10, 11, 12, 13, 13, 14, 15, 16, 17, 18, 18, 19, 20, 0]);
+    expect([
+      for (var l = 1; l <= 20; l++) LearningProgress.xpNeeded(l)
+    ], [
+      5,
+      6,
+      7,
+      8,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      18,
+      19,
+      20,
+      0
+    ]);
   });
 
   test('A miss costs 2 and below zero drops a level near its top', () {
@@ -209,8 +257,10 @@ void main() {
             .label(now),
         '복습 · 어제 틀림');
     expect(
-        Exercise.fromReview(w,
-                ReviewEntry(w.id, misses: 3, lastMissed: DateTime(2026, 10, 10)))
+        Exercise.fromReview(
+                w,
+                ReviewEntry(w.id,
+                    misses: 3, lastMissed: DateTime(2026, 10, 10)))
             .label(now),
         '복습 · 5일 전 틀림 · 3번 틀림');
     // Older saved records have no miss date.

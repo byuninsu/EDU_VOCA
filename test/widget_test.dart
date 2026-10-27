@@ -10,6 +10,7 @@ import 'package:edu_voca/features/learning/views/word_practice.dart';
 import 'package:edu_voca/features/writing/views/writing_practice.dart';
 import 'package:edu_voca/shared/widgets/word_indicators.dart';
 import 'package:edu_voca/shared/widgets/cloze_sentence.dart';
+import 'package:edu_voca/shared/widgets/dialogue_turn.dart' as chat;
 import 'support.dart';
 
 import 'package:edu_voca/features/vocabulary/views/vocabulary_catalog.dart';
@@ -331,7 +332,8 @@ void main() {
     expect(find.text(wordsById['eight']!.translation), findsOneWidget);
     expect(tester.widget<ClozeSentence>(find.byType(ClozeSentence)).sentence,
         wordsById['eight']!.sentence);
-    expect(find.text('문장 전체 해석'), findsOneWidget);
+    expect(find.byType(chat.DialogueTurn), findsNWidgets(2));
+    expect(find.byKey(const ValueKey('dialogue-partner-translation')), findsOneWidget);
     await tester.enterText(find.byType(TextField), 'eight');
     await submitAnswer(tester);
     expect(state.completed, 1);

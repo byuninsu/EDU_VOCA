@@ -41,3 +41,10 @@ this includes separating rose (flower) from rose (past of rise), and found
 (establish) from found (past of find). These replacements are AI-authored,
 CC BY-SA 4.0, and do not claim expert review. The original Tatoeba files remain
 unchanged. Additional contextual highlight cues are app-authored in WordCues.
+
+Dialogue openings: `lib/data/local/dialogue_contexts.dart` adds AI-authored
+Sam turns, Korean translations and scene labels under CC BY-SA 4.0. All 64
+phrases and the original app examples have individual openings. Other entries
+use topic-based openings or general conversational prompts; these are not
+individually reviewed conversations. Sally's existing sentence, translation,
+answer and original credit remain unchanged. No online generation is used.
